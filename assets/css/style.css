@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+/*====================================================
+            1.  Top Header
+====================================================*/
+
+.top-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px 0px;
+    background-color: #005966;
+}
+@media screen and (max-width: 500px) {
+    .top-header{
+        display: block;
+    }
+    .header-email > a > img{
+        padding: 4px 4px;
+        width: 25px;
+    }
+    .header-phone > a > img{
+        padding: 4px 3px;
+        width: 25px;
+    }
+}
+/* ---------- Top Header Email and Phone -------------  */
+
+.header-email > a, .header-phone > a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+.header-email > a:hover{
+    transition: all .5s ease-in-out;
+    color: #de9d67;
+}
+.header-phone > a:hover{
+    transition: all .5s ease-in-out;
+    color: #de9d67;
+}
+.header-email > a > img, .header-phone > a > img{
+    padding-right: 4px;
+    width: 25px;
+}
+/* -------- Top Header Social Icons -----------  */
+.header-social{
+ display: flex;
+ align-items: center;
+}
+.header-social > a {
+    text-decoration: n;
+}
+.header-social > a > img{
+    width: 30px;
+    outline: none !important;
+    padding: 5px;
+    margin: 0px 5px;
+}
+
+
+/*====================================================
+              2.  NavBar
+====================================================*/
+.hero-nav{
+    padding: 0% 10%;
+    background-color: #ebf5f8;
+}
+.hero-logo{
+    width: 100%;
+}
+.hero-logo > a > img{
+    width: 130px;
+    padding-top: 5px;
+}
+
+/* ----------- Menus --------------------------  */
+.hero-navbar{
+    width: 100%;
+}
+.hero-navbar > ul{
+    margin-bottom: 0px;
+    padding: 28px 0px;
+}
+.hero-navbar > ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-navbar > ul > li > a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #005966;
+}
+.hero-navbar > ul > li::before{
+    display:block;
+    content: '';
+    border-bottom: solid 3px #de9d67;  
+    transform: scaleX(0);  
+    transition: transform .5s ease-in-out;
+}
+.hero-navbar > ul > li:hover:before{
+    transform: scaleX(1);
+}
+.open-menu > img{
+    display: none;
+    cursor: pointer;
+}
+.close-menu > img{
+    display: none;
+    cursor: pointer;
+    position: absolute;
+}
+
+/* -------- Responsive NavBar----------  */
+
+@media screen and (max-width: 1200px) {
+    .hero-navbar > ul{
+        display: block;
+        background-color: #e8f5f8;
+        width: 0%;
+        float: left;
+        position: absolute;
+    
+    }
+    .hero-navbar > ul > li{
+        padding: 5px 40px;
+    }
+    .open-menu > img{
+        display: flex;
+        float: right;
+        width: 50px;
+        margin-top: 3%;
+    }
+}
+@media screen and (max-width: 500px) {
+    .open-menu > img{
+        margin-top: 10%;
+    }
+}
