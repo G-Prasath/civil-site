@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    overflow-x: hidden;
 }
 
 /*====================================================
@@ -12,7 +11,7 @@
 .top-header{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding: 5px 0px;
     background-color: #005966;
 }
@@ -48,6 +47,16 @@
     padding-right: 4px;
     width: 25px;
 }
+.top-header > span{
+    color: #de9d67;
+    font-size: 21px;
+    font-weight: 900;
+}
+@media screen and (max-width: 550px) {
+    .top-header > span{
+        display: none;
+    }
+}
 /* -------- Top Header Social Icons -----------  */
 .header-social{
  display: flex;
@@ -63,83 +72,121 @@
     margin: 0px 5px;
 }
 
-
 /*====================================================
               2.  NavBar
 ====================================================*/
-.hero-nav{
-    padding: 0% 10%;
+
+header{
     background-color: #ebf5f8;
+    padding: .2rem 0;
 }
-.hero-logo{
-    width: 100%;
+.hero-logo {
+    width: 150px;
+    padding: 0px 10px;
 }
-.hero-logo > a > img{
-    width: 130px;
-    padding-top: 5px;
-}
-
-/* ----------- Menus --------------------------  */
-.hero-navbar{
-    width: 100%;
-}
-.hero-navbar > ul{
-    margin-bottom: 0px;
-    padding: 28px 0px;
-}
-.hero-navbar > ul{
+nav{
+    max-width: 1100px;
+    margin: 0 auto;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
+    position: sticky;
 }
-.hero-navbar > ul > li > a{
+.menu{
+    margin-bottom: 0px;
+}
+.menu > li{
+    position: relative;
+}
+.menu > li, .menu > a{
+    display: inline-block;
+}
+.menu > li > a{
     text-decoration: none;
+    color: #005b67;
+    display: block;
+    padding: 10px 1.5rem;
     font-weight: 600;
-    color: #005966;
-}
-.hero-navbar > ul > li::before{
-    display:block;
-    content: '';
-    border-bottom: solid 3px #de9d67;  
-    transform: scaleX(0);  
-    transition: transform .5s ease-in-out;
-}
-.hero-navbar > ul > li:hover:before{
-    transform: scaleX(1);
-}
-.open-menu > img{
-    display: none;
-    cursor: pointer;
-}
-.close-menu > img{
-    display: none;
-    cursor: pointer;
-    position: absolute;
+    transition: background-color .22s ease, color .22s ease;
 }
 
-/* -------- Responsive NavBar----------  */
+/* ---------- Lavel Style -------------  */
+.sub-menu{
+    position: absolute;      
+    background: #ebf5f8;
+    width: 200px;
+    left: 0px;
+    padding: 0;
+    display: none;
+    list-style-type: none;
+}
+.sub-menu > li{
+    padding: 10px 0px;
+}
+.sub-menu > li:not(:last-child){
+    border-bottom: 1px solid #ccc;
+}
+.sub-menu > li > a{
+    text-decoration: none;
+    color: #005b67;
+    font-weight: 500;
+    padding: 10px 2px;
+    transition: background-color .22s ease, color .22s ease;
+}
+/* ----------- Menu hover --------------  */
+.menu > li > a:hover{
+    background-color: #de9d67;
+    color: #fff;
+}
+.sub-menu > li:hover a{
+    color: #de9d67;
+}
 
-@media screen and (max-width: 1200px) {
-    .hero-navbar > ul{
+/* -------- Show menus ---------------  */
+.menu > li:hover .sub-menu{
+    display: block;
+}
+
+
+/* ========== Mobile Responsive ==========  */
+.nav-menu > img{
+    display: none;
+}
+
+@media screen and (max-width : 924px) {
+    header{
+       padding: 0px 5%;
+    }
+    .nav-menu > img{
         display: block;
-        background-color: #e8f5f8;
-        width: 0%;
-        float: left;
-        position: absolute;
-    
+        width: 40px;
+        cursor: pointer;
     }
-    .hero-navbar > ul > li{
-        padding: 5px 40px;
+    /* .menu{
+        display: none;
+    } */
+    nav{
+        display: block;
+        /* position: relative; */
     }
-    .open-menu > img{
-        display: flex;
-        float: right;
-        width: 50px;
-        margin-top: 3%;
+    .menu{
+        margin-top: 10px;
     }
-}
-@media screen and (max-width: 500px) {
-    .open-menu > img{
-        margin-top: 10%;
+    .menu > li{
+        /* border: 1px solid red; */
+
     }
+    .menu > li > a{
+       /* display: none; */
+    }
+    .menu > li, .menu > a{
+        display: block;
+    }
+ 
+   
+
+
+   
+
+
 }

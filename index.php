@@ -20,9 +20,11 @@
                         <div class="header-email">
                             <a href="#"><img src="assets/images/header-icons/mail.png" alt="">Exmple@gmail.com</a>
                         </div>
+                        <span>|</span>
                         <div class="header-phone">
                             <a href="#"><img src="assets/images/header-icons/phone.png" alt="">+98548 658 125</a>
                         </div>
+                        <span>|</span>
                         <div class="header-social">
                             <a href="#"><img src="assets/images/header-icons/twitter.png" alt="" /></a>
                             <a href="#"><img src="assets/images/header-icons/facebook.png" alt="" /></a>
@@ -37,37 +39,44 @@
     <!--------- Top Header ------------>
 
     <!-- ----------- Start Navbar ----------->
-
-    <div class="container-fluid">
-        <div class="row hero-nav">
-            <div class="col-md-4 col-sm-3 col-xs-2 col-6">
-                <div class="hero-logo">
-                    <a href="#">
-                        <img class="img-fluid" src="assets/images/logo-1.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-8 col-sm-9 col-xs-10 col-6">
-                <div class="hero-navbar">
-                    <div class="open-menu">
-                        <img class="open" src="assets/images/nav-menu.png" alt="">
-                    </div>
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Residential</a></li>
-                        <li><a href="#">Industrial</a></li>
-                        <li><a href="#">Commercial</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                      
-                    </ul>
-                </div>
-            </div>
-            <!-- <div class="close-menu">
-                <img src="assets/images/close.png" alt="">
-            </div> -->
+<header>
+    <nav>
+        <div class="hero-logo">
+            <img class="img-fluid" src="assets/images/logo-1.png" alt="">
         </div>
-    </div>
+        <!-- <div class="nav-menu">
+            <img src="assets/images/nav-menu.png" class="img-fluid" alt="">
+        </div> -->
+        <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Residential</a>
+                <ul class="sub-menu">
+                    <li><a href="#">House</a></li>
+                    <li><a href="#">Flats</a></li>
+                    <li><a href="#">Condominium</a></li>
+                    <li><a href="#">Duplex</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Industrial</a>
+                <ul class="sub-menu">
+                    <li><a href="#">Hospitals</a></li>
+                    <li><a href="#">Shopping complexes</a></li>
+                    <li><a href="#">Office</a></li>
+                    <li><a href="#">Warehouses</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Commercial</a>
+                <ul class="sub-menu">
+                    <li><a href="#">Cloude Storage Buildings</a></li>
+                    <li><a href="#">Data Science</a></li>
+                    <li><a href="#">Manufacturing Buildings</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+    </nav>
+</header>
     <!-- ----------- End Navbar ---------- -->
 
 
