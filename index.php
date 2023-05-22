@@ -6,8 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Civil Construction</title>
     <link rel="stylesheet" href="assets/css/style.css" />
+
+    <!-- --------- Bottstrap css and Js ---------------  -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- ---------------- Icons --------------------->
     <link href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+    <!-- ------------- Jqury CDN --------------------  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+    <!-- -------- Light Box ---------- -->
+    <link rel="stylesheet" href="assets/css/lightbox.min.css">
+    <script type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
+
 
     
 </head>
@@ -101,7 +112,7 @@
                         <h1>Dream House</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo dolores pariatur nam esse voluptatem voluptatum non similique corporis?</p>
                         <button class="cover-btn"><a href="#">Read More</a></button>
-                        
+                        <!-- <a href="https://youtu.be/C1B1Fx3XKOg" data-lightbox="mygallery"><i class='bx bx-play'></i></a> -->
                     </div>
                 </div>
             </div>
@@ -143,9 +154,43 @@
 
   </div>
 </div>
-
 <!-- -------------- End Hero Slide ----------->
 
+<!-- ------------- Start Home about Section ------------->
+<div id="about">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sec-heading">
+          <div class="sec-main">
+          <!-- <i class="bx bx-building-house"></i> -->
+          <img src="assets/images/creane.gif" alt="">
+          <h2>About</h2>
+          <!-- <i class="bx bx-building-house"></i> -->
+          </div>
+          <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-12">
+        <div class="about-img">
+          <img src="assets/images/about.jpg" class="img-fluid" alt="">
+        </div>
+      </div>
+      <div class="col-md-6 col-md-6 col-12">
+        <div class="about-cnt">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis inventore magnam totam consequuntur nobis eligendi earum excepturi vitae atque cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae soluta porro quidem at molestiae autem natus beatae culpa, delectus dolor corporis maxime laboriosam, aliquid aperiam tenetur voluptates magni. Placeat, consequuntur!</p>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci sed vitae sapiente error reiciendis expedita tenetur, eos dolores doloremque incidunt. Cum, veritatis soluta. Harum recusandae dolorem amet accusantium, dignissimos necessitatibus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus maxime dolorum cum suscipit est quisquam sit quia voluptatibus officiis, autem esse tenetur amet perferendis ratione necessitatibus. Assumenda nisi ex velit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt neque doloribus perferendis possimus pariatur provident corporis odit temporibus, reprehenderit consectetur ratione incidunt mollitia repudiandae consequuntur officia illo sint sunt soluta.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- ------------- End Home about Section -------------->
 
 
 
@@ -159,8 +204,6 @@
 
 
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/script.js"></script>
 
 </body>
