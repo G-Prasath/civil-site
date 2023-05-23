@@ -9,18 +9,15 @@
 
     <!-- --------- Bottstrap css and Js ---------------  -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" />
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    
     <!-- ---------------- Icons --------------------->
     <link href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
-    <!-- ------------- Jqury CDN --------------------  -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+ 
 
     <!-- -------- Light Box ---------- -->
     <link rel="stylesheet" href="assets/css/lightbox.min.css">
     <script type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
 
-
-    
 </head>
 <body>
 <!--------- Top Header ------------>
@@ -96,6 +93,57 @@
     </div>
   </div>
 </nav>
+
+<!-- ------------- side sticky ---------->
+<div class="wrapper">
+    <div id="main-div">
+      <div id="main-button" class="wave open">
+        <i class="bx bx-x"></i>
+      </div>
+     
+      <a href="tel:9790924754" class="telegram-color"><i class="bx bx-phone"></i></a>
+      <a href="https://wa.me/9790924754" class="whatsapp-color" ><i class="bx bxl-whatsapp"></i></a>
+      <a href="javascript:;" class="btn messenger-color" data-bs-toggle="modal" data-bs-target="#myModal"><i class='bx bxs-quote-left'></i></a>
+
+      
+      <!-- Modal -->
+      <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5 text-center text-primary" id="exampleModalLabel">Get a Estimation Quote</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <form method="post" action="#" id="enquiry">
+                <div class="mb-3">
+                  <label for="exampleInputEmail1" class="form-label">Name</label>
+                  <input type="text" name="name" id="name" class="form-control border border-primary" id="exampleInputEmail1" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label">Email</label>
+                  <input type="email" name="email" id="email" class="form-control border border-primary" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label">Phone Number</label>
+                  <input type="text" name="phone" id="phone" class="form-control border border-primary" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label">Message</label>
+                  <textarea class="form-control border border-primary" name="msg" id="msg" rows="4"></textarea>
+                </div>
+                <div class="d-grid gap-2">
+                  <button class="btn btn-primary" name="submit" type="button">Send</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+<!-- ---------------- End Side Sticky  -->
+
 <!-- ----------- End Navbar ---------- -->
 
 <!-- -------------- Start Hero Slide ----------->
@@ -156,42 +204,42 @@
 </div>
 <!-- -------------- End Hero Slide ----------->
 
-<!-- ------------- Start Home about Section ------------->
-<div id="about">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="sec-heading">
-          <div class="sec-main">
-          <!-- <i class="bx bx-building-house"></i> -->
-          <img src="assets/images/creane.gif" alt="">
-          <h2>About</h2>
-          <!-- <i class="bx bx-building-house"></i> -->
+<!-- ------------- Start Home Content ------------->
+<div id="main-section">
+  <div id="about">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="sec-heading">
+            <div class="sec-main">
+            <!-- <i class="bx bx-building-house"></i> -->
+            <img src="assets/images/crane.gif" alt="">
+            <h2>About</h2>
+            <!-- <i class="bx bx-building-house"></i> -->
+            </div>
+            <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
           </div>
-          <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-6 col-md-6 col-12">
-        <div class="about-img">
-          <img src="assets/images/about.jpg" class="img-fluid" alt="">
-        </div>
-      </div>
-      <div class="col-md-6 col-md-6 col-12">
-        <div class="about-cnt">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis inventore magnam totam consequuntur nobis eligendi earum excepturi vitae atque cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae soluta porro quidem at molestiae autem natus beatae culpa, delectus dolor corporis maxime laboriosam, aliquid aperiam tenetur voluptates magni. Placeat, consequuntur!</p>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci sed vitae sapiente error reiciendis expedita tenetur, eos dolores doloremque incidunt. Cum, veritatis soluta. Harum recusandae dolorem amet accusantium, dignissimos necessitatibus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus maxime dolorum cum suscipit est quisquam sit quia voluptatibus officiis, autem esse tenetur amet perferendis ratione necessitatibus. Assumenda nisi ex velit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt neque doloribus perferendis possimus pariatur provident corporis odit temporibus, reprehenderit consectetur ratione incidunt mollitia repudiandae consequuntur officia illo sint sunt soluta.</p>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="about-img">
+            <img src="assets/images/about.jpg" class="img-fluid" alt="">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti, unde ratione! Dolorem nihil architecto, odit laudantium, dolorum labore atque magni, dignissimos cumque quas deleniti id neque facere velit cupiditate animi rerum beatae mollitia numquam quidem est possimus vero. Rem, dolores. Officiis illum in cupiditate similique error laboriosam dignissimos earum ab.</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis repudiandae officia itaque veniam!</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis magnam aliquid reprehenderit esse iure repudiandae officia itaque veniam!</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis magnam aliquid reprehenderit esse iure repudiandae officia itaque veniam!</p>
+
+          </div>
+          <div class="about-cnt">
+
+          </div>
         </div>
       </div>
     </div>
   </div>
 </div>
-
-
-
-<!-- ------------- End Home about Section -------------->
-
+<!-- ------------- End Home Content -------------->
 
 
 
@@ -200,11 +248,12 @@
 
 
 
+  <!-- ------------- Bootstrap JS CDN --------------------  -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- ------------- Jqury CDN --------------------  -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 
-
-
-
-    <script src="assets/js/script.js"></script>
+  <script src="assets/js/script.js"></script>
 
 </body>
 </html>

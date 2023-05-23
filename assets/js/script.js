@@ -30,3 +30,10 @@ jsArrow.onclick = function() {
 }
 
 
+
+// ======== Side Stick Button ============== 
+var mainDiv = document.getElementById('main-button');
+mainDiv.addEventListener('click', function(){
+    this.children.item(0).classList.toggle('bx-plus');
+    this.classList.toggle('open');
+});

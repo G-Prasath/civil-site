@@ -6,6 +6,19 @@
 html{
   scroll-behavior: smooth;
 }
+p{
+  color: #383333;
+  line-height: 27px;
+  font-size: 16px;
+}
+#main-section{
+  padding: 0px 50px;
+}
+@media only screen and (max-width: 600px) {
+  #main-section{
+    padding: 0px 10px;
+  }
+}
 
 /*====================================================
             1.  Top Header
@@ -181,9 +194,6 @@ nav{
   .navbar .links li .sub-menu .more-arrow{
     line-height: 40px;
   }
-  /* .navbar .links li .htmlCss-more-sub-menu{
-    line-height: 40px;
-  } */
   .navbar .links li .sub-menu .more-sub-menu{
     position: absolute;
     top: 0;
@@ -201,6 +211,114 @@ nav{
   .navbar .bx-menu{
     display: none;
   }
+
+/* ------------- Side sticky Navbar --------------  */
+  #main-div {
+    position: fixed;
+    right: 5px;
+    bottom: 20px;
+    z-index: 9999;
+  }
+  
+  #main-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    color: #0064f3;
+    cursor: pointer;
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.5);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: 2px solid #045ad587;
+  }
+  
+  #main-button ~ a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    opacity: 0;
+    text-decoration: none;
+    color: #fff;
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.5);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    transition: .2s all linear;
+    -webkit-transition: .2s all linear;
+    -moz-transition: .2s all linear;
+    -ms-transition: .2s all linear;
+    -o-transition: .2s all linear;
+  }
+  
+  #main-button ~ .telegram-color {
+    background: linear-gradient(0deg, #017AB1, #01ABE6);
+  }
+  
+  #main-button ~ .whatsapp-color {
+    background: linear-gradient(0deg, #00B100, #09db09);
+  }
+  
+  #main-button ~ .messenger-color {
+    background: linear-gradient(0deg, #0078FF, #00C6FF);
+  }
+  
+  #main-button.open ~ a {
+    opacity: 1;
+    transition: .4s all cubic-bezier(0, 0.01, 0, 1.27);
+    -webkit-transition: .4s all cubic-bezier(0, 0.01, 0, 1.27);
+    -moz-transition: .4s all cubic-bezier(0, 0.01, 0, 1.27);
+    -ms-transition: .4s all cubic-bezier(0, 0.01, 0, 1.27);
+    -o-transition: .4s all cubic-bezier(0, 0.01, 0, 1.27);
+  }
+  #main-button.open ~ a:nth-of-type(1) {
+    bottom: 60px;
+  }
+  #main-button.open ~ a:nth-of-type(2) {
+    bottom: 120px;
+  }
+  #main-button.open ~ a:nth-of-type(3) {
+    bottom: 180px;
+  }
+  
+  .wave {
+    animation-name: wave;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes wave {
+    0% {box-shadow: 0 0 0px 0px rgba(255, 255, 255, 0.5);}
+    100% {box-shadow: 0 0 0px 10px rgba(255, 255, 255, 0);}
+  }
+  
+  .open {
+    animation-iteration-count: 1;
+  }
+  
+
+
   @media (max-width:920px) {
     nav .navbar{
       max-width: 100%;
@@ -216,9 +334,7 @@ nav{
     }
   }
   @media (max-width:768px){
-    /* nav{
-      position: relative;
-    } */
+
     .navbar .bx-menu{
       display: block;
     }
@@ -579,11 +695,11 @@ nav{
    }
 }
 
-/* ---------- Home About --------------  */
+/* ---------- Home Cnt --------------  */
+
 #about{
   width: 100%;
-  height: 100vh;
-  padding: 0px 50px;
+  height: auto;
 }
 .sec-heading{
   width: 100%;
@@ -591,7 +707,7 @@ nav{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 50px 0px 30px 0px;
+  padding: 30px 0px 30px 0px;
 }
 .sec-heading > .sec-main > h2{
   font-weight: bold;
@@ -601,8 +717,6 @@ nav{
   margin-bottom: -.6rem;
 }
 
-
-
 .sec-main{
   display: flex;
   align-items: center;
@@ -610,66 +724,27 @@ nav{
 }
 .sec-main > img{
   width: 70px;
-  margin-left: -200px;
 }
-
-/* @-webkit-keyframes bounce1 {
-  0% { transform: translateX(5px)  }
-  50% { transform: translateX(-10px) }
-  100% { transform: translateX(5px) }
-}
-
-@keyframes bounce {
-  0% { transform: translateX(-5px)  }
-  50% { transform: translateX(10px) }
-  100% { transform: translateX(-5px) }
-} */
-
-/* .sec-main:nth-child(1){ */
-  /* width: 200px;
-  height: 200px;
-  background-color: #35D857;
-  border-radius: 100%;
-  margin: 20% auto; */
-  
-  /* -webkit-animation: bounce 3s infinite ease-in-out;
-  -o-animation: bounce 3s infinite ease-in-out;
-  -ms-animation: bounce 3s infinite ease-in-out; 
-  -moz-animation: bounce 3s infinite ease-in-out; 
-  animation: bounce 3s infinite ease-in-out;
-}
-.sec-main:nth-child(3){  
-  -webkit-animation: bounce1 3s infinite ease-in-out;
-  -o-animation: bounce1 3s infinite ease-in-out;
-  -ms-animation: bounce1 3s infinite ease-in-out; 
-  -moz-animation: bounce1 3s infinite ease-in-out; 
-  animation: bounce1 3s infinite ease-in-out;
-} */
-
-
-
-
-
-
-
-
 
 .sec-heading > small{
   font-size: 16px;
-}
-.about-cnt{
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
 }
 .about-img > img{
-  width: 100%;
-  height: auto;
-  padding-bottom: 10px;
+  width: 650px;
+  float: left;
+  padding-right: 30px;
 }
-.about-cnt > p{
-  color: #383333;
- 
+
+@media (max-width: 991px) {
+  .about-img > img{
+    width: 100%;
+    padding-right: 0px;
+    padding-bottom: 10px;
+  }
 }
+
+#about{
+}
+
+
