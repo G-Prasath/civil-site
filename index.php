@@ -13,7 +13,6 @@
     <!-- ---------------- Icons --------------------->
     <link href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
  
-
     <!-- -------- Light Box ---------- -->
     <link rel="stylesheet" href="assets/css/lightbox.min.css">
     <script type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
@@ -206,6 +205,7 @@
 
 <!-- ------------- Start Home Content ------------->
 <div id="main-section">
+  <!-- ------------ Home About ----------------  -->
   <div id="about">
     <div class="container-fluid">
       <div class="row">
@@ -213,7 +213,7 @@
           <div class="sec-heading">
             <div class="sec-main">
             <!-- <i class="bx bx-building-house"></i> -->
-            <img src="assets/images/crane.gif" alt="">
+            <img src="assets/images/home/sec-icons/crane.gif" alt="">
             <h2>About</h2>
             <!-- <i class="bx bx-building-house"></i> -->
             </div>
@@ -224,22 +224,108 @@
       <div class="row">
         <div class="col-md-12">
           <div class="about-img">
-            <img src="assets/images/about.jpg" class="img-fluid" alt="">
+            <img src="assets/images/home/about.jpg" class="img-fluid" alt="">
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti, unde ratione! Dolorem nihil architecto, odit laudantium, dolorum labore atque magni, dignissimos cumque quas deleniti id neque facere velit cupiditate animi rerum beatae mollitia numquam quidem est possimus vero. Rem, dolores. Officiis illum in cupiditate similique error laboriosam dignissimos earum ab.</p>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis repudiandae officia itaque veniam!</p>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis magnam aliquid reprehenderit esse iure repudiandae officia itaque veniam!</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis magnam aliquid reprehenderit esse iure repudiandae officia itaque veniam!</p>
-
-          </div>
-          <div class="about-cnt">
-
           </div>
         </div>
       </div>
     </div>
   </div>
+<!-- ------------- End Home About -------------->
+
+<!-- ------------- start Tab-Menu -------------->
+<div id="tab-menu">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+          <div class="sec-heading">
+            <div class="sec-main">
+              <img src="assets/images/home/sec-icons/blueprint.gif" alt="">
+              <h2>Our Industry Projects</h2>
+            </div>
+            <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
+          </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="tab-menu-btn">
+          <ul>
+            <li class="tab-active">Residential</li>
+            <li>Industrial</li>
+            <li>Commercial</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="list-services">
+          <ul>
+            <li>
+              <div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>House</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-2.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Flats</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div>
+            </li>
+            <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Condominium</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+            <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-4.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Duplex</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-<!-- ------------- End Home Content -------------->
+<!-- ------------- End Tab-Menu -------------->
+
+
+</div>
 
 
 

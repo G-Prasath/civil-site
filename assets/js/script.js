@@ -37,3 +37,12 @@ mainDiv.addEventListener('click', function(){
     this.children.item(0).classList.toggle('bx-plus');
     this.classList.toggle('open');
 });
+
+// =============== Tab-Gallery-Active-Btn ======== 
+$('.tab-menu-btn ul li').click(function() {
+    var value = $(this).attr('class');
+    if (value != "tab-ctive") {
+        $('.tab-active').removeClass("tab-active");
+        $(this).addClass("tab-active");
+    }
+});
