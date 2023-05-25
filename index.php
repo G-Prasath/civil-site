@@ -115,25 +115,6 @@
             </div>
             <div class="modal-body">
               <form method="post" action="#" id="enquiry">
-                <!-- <div class="mb-3">
-                  <label for="exampleInputEmail1" class="form-label">Name</label>
-                  <input type="text" name="name" id="name" class="form-control border border-primary success" id="exampleInputEmail1" aria-describedby="emailHelp">
-                  <div class="input-error">Required</div>
-                </div>
-                <div class="mb-3">
-                  <label for="exampleInputPassword1" class="form-label">Email</label>
-                  <input type="email" name="email" id="email" class="form-control border border-primary" id="exampleInputPassword1">
-                  <div class="input-error"></div>
-                </div>
-                <div class="mb-3ssword1" class="form-label">Phone Number</label>
-                  <input type="text" name="phone" id="phone" class="form-control border border-primary" id="exampleInputPassword1">
-                  <div class="input-error"></div>
-                </div>
-                <div class="mb-3">
-                  <label for="exampleInputPassword1" class="form-label">Message</label>
-                  <textarea class="form-control border border-primary" name="msg" id="msg" rows="2"></textarea>
-                  <div class="input-error"></div>
-                </div> -->
                 <div class="input-group">
                   <label for="name">Name</label>
                   <input type="text" id="name" name="name">
@@ -162,6 +143,7 @@
           </div>
         </div>
       </div>
+
     </div>
 </div>
 <!-- ---------------- End Side Sticky  -->
@@ -170,7 +152,7 @@
 
 <!-- -------------- Start Hero Slide ----------->
 
-<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" data-interval="2500">
+<div id="carouselExampleControls" class="carousel slide home-hero-slide" data-bs-ride="carousel" data-interval="2500">
   <div class="carousel-inner">
 
     <div class="carousel-item active">
@@ -457,6 +439,131 @@
   </div>
 </div>
 <!-- ------------- End Tab-Menu -------------->
+
+<!-- --------------- Start FAQ Videos -------------->
+<div id="faq">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="sec-heading faq-heading">
+          <div class="sec-main">
+            <img src="assets/images/home/sec-icons/faq.gif" alt="">
+            <h2>Frequently Asked Questions</h2>
+          </div>
+        </div>
+        <div class="accordion">
+          <div class="accordion-item">
+            <a>Why is the moon sometimes out during the day?</a>
+            <div class="content">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <a>Why is the sky blue?</a>
+            <div class="content">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <a>Will we ever discover aliens?</a>
+            <div class="content">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <a>How much does the Earth weigh?</a>
+            <div class="content">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <a>How do airplanes stay up?</a>
+            <div class="content">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="sec-heading faq-heading">
+          <div class="sec-main">
+            <img src="assets/images/home/sec-icons/video.gif" alt="">
+            <h2>Video</h2>
+          </div>
+        </div>
+        <div class="faq-video">
+          <iframe width="600" height="290" src="https://www.youtube.com/embed/Yu9Xh8HJIbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- --------------- End FAQ Videos -------------->
+
+<!-- ---------------- Start Testimonial -------- -->
+<div id="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+          <div class="sec-heading">
+            <div class="sec-main">
+              <img src="assets/images/home/sec-icons/testimonials.gif" alt="">
+              <h2>Testimonials</h2>
+            </div>
+            <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
+          </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="testimonial-slide">
+          <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div class="testimonial-1">
+                  <div class="tst-logo">
+                    <img src="assets/images/home/sec-icons/Architect.gif" class="img-fluid" alt="">
+                  </div>
+                  <div class="tst-cnt">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, eos ratione! Quas porro optio obcaecati ab dolorem vero molestias illum, omnis possimus totam dolor neque inventore esse, natus explicabo laborum eveniet corporis harum libero eos? Asperiores nihil quasi consequuntur mollitia? Neque quos magnam, quasi repudiandae officia accusantium iusto pariatur sit?</p>
+                    <h6>JEESICA <span>-Architect</span></h6>
+                  </div>
+                </div>
+              </div>
+
+              <div class="carousel-item">
+                <div class="testimonial-1">
+                  <div class="tst-logo">
+                    <img src="assets/images/home/sec-icons/hr.gif" class="img-fluid" alt="">
+                  </div>
+                  <div class="tst-cnt">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, eos ratione! Quas porro optio obcaecati ab dolorem vero molestias illum, omnis possimus totam dolor neque inventore esse, natus explicabo laborum eveniet corporis harum libero eos? Asperiores nihil quasi consequuntur mollitia? Neque quos magnam, quasi repudiandae officia accusantium iusto pariatur sit?</p>
+                    <h6>Danial <span>-Sr.HR</span></h6>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="testimonial-1">
+                  <div class="tst-logo">
+                    <img src="assets/images/home/sec-icons/designer.gif" class="img-fluid" alt="">
+                  </div>
+                  <div class="tst-cnt">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, eos ratione! Quas porro optio obcaecati ab dolorem vero molestias illum, omnis possimus totam dolor neque inventore esse, natus explicabo laborum eveniet corporis harum libero eos? Asperiores nihil quasi consequuntur mollitia? Neque quos magnam, quasi repudiandae officia accusantium iusto pariatur sit?</p>
+                    <h6>John <span>-Designer</span></h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ---------------- End Testimonial -------- -->
+
+
 
 
 </div>
