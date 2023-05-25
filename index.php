@@ -115,24 +115,47 @@
             </div>
             <div class="modal-body">
               <form method="post" action="#" id="enquiry">
-                <div class="mb-3">
+                <!-- <div class="mb-3">
                   <label for="exampleInputEmail1" class="form-label">Name</label>
-                  <input type="text" name="name" id="name" class="form-control border border-primary" id="exampleInputEmail1" aria-describedby="emailHelp">
+                  <input type="text" name="name" id="name" class="form-control border border-primary success" id="exampleInputEmail1" aria-describedby="emailHelp">
+                  <div class="input-error">Required</div>
                 </div>
                 <div class="mb-3">
                   <label for="exampleInputPassword1" class="form-label">Email</label>
                   <input type="email" name="email" id="email" class="form-control border border-primary" id="exampleInputPassword1">
+                  <div class="input-error"></div>
                 </div>
-                <div class="mb-3">
-                  <label for="exampleInputPassword1" class="form-label">Phone Number</label>
+                <div class="mb-3ssword1" class="form-label">Phone Number</label>
                   <input type="text" name="phone" id="phone" class="form-control border border-primary" id="exampleInputPassword1">
+                  <div class="input-error"></div>
                 </div>
                 <div class="mb-3">
                   <label for="exampleInputPassword1" class="form-label">Message</label>
-                  <textarea class="form-control border border-primary" name="msg" id="msg" rows="4"></textarea>
+                  <textarea class="form-control border border-primary" name="msg" id="msg" rows="2"></textarea>
+                  <div class="input-error"></div>
+                </div> -->
+                <div class="input-group">
+                  <label for="name">Name</label>
+                  <input type="text" id="name" name="name">
+                  <div class="error"></div>
+                </div>
+                <div class="input-group">
+                  <label for="email">Email</label>
+                  <input type="text" id="email" name="email">
+                  <div class="error"></div>
+                </div>
+                <div class="input-group">
+                  <label for="phone">Phone</label>
+                  <input type="text" id="phone" name="phone">
+                  <div class="error"></div>
+                </div>
+                <div class="input-group">
+                  <label for="msg">Message</label>
+                  <input name="msg" id="msg" style="height: 75px">
+                  <div class="error"></div>
                 </div>
                 <div class="d-grid gap-2">
-                  <button class="btn btn-primary" name="submit" type="button">Send</button>
+                  <button class="enquiry-btn" name="submit" type="submit"><span>Send</span></button>
                 </div>
               </form>
             </div>
@@ -260,9 +283,10 @@
         </div>
       </div>
     </div>
+    <!-- ----------------- Residential ------------------  -->
     <div class="row">
       <div class="col-md-12">
-        <div class="list-services">
+        <div class="list-services service-show" id="Residential">
           <ul>
             <li>
               <div class="service-card">
@@ -320,6 +344,116 @@
         </div>
       </div>
     </div>
+    <!-- --------------------- Industrial ---------------  -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="list-services service-hide" id="Industrial">
+          <ul>
+            <li>
+              <div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Cold Storage Buildings</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-2.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Data Centers</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div>
+            </li>
+            <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Manufacturing Buildings</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- ----------------------- Commercial ----------------  -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="list-services service-hide" id="Commercial">
+          <ul>
+            <li>
+              <div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Hospitals</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-2.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Shopping complexes</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div>
+            </li>
+            <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Office</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+            <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-4.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Warehouses</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 <!-- ------------- End Tab-Menu -------------->
@@ -336,9 +470,11 @@
 
   <!-- ------------- Bootstrap JS CDN --------------------  -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+
   <!-- ------------- Jqury CDN --------------------  -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 
+  <!-- ---------------- External JS --------------------------->
   <script src="assets/js/script.js"></script>
 
 </body>

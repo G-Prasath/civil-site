@@ -229,8 +229,8 @@ nav{
     position: absolute;
     right: 0;
     bottom: 0;
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     font-size: 20px;
     color: #0064f3;
     cursor: pointer;
@@ -253,8 +253,8 @@ nav{
     right: 0;
     bottom: 0;
     z-index: -1;
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     font-size: 20px;
     opacity: 0;
     text-decoration: none;
@@ -294,15 +294,90 @@ nav{
     -o-transition: .4s all cubic-bezier(0, 0.01, 0, 1.27);
   }
   #main-button.open ~ a:nth-of-type(1) {
-    bottom: 60px;
+    bottom: 50px;
   }
   #main-button.open ~ a:nth-of-type(2) {
-    bottom: 120px;
+    bottom: 100px;
   }
   #main-button.open ~ a:nth-of-type(3) {
-    bottom: 180px;
+    bottom: 150px;
+  }
+  .enquiry-btn {
+    border-radius: 4px;
+    background-color: #0064f3;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px 0px;
+    width: 100%;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
   }
   
+  .enquiry-btn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .enquiry-btn span:after {
+    content: '☺';
+    position: absolute;
+    opacity: 0;
+    top: -9.5px;
+    right: -20px;
+    font-size: 25px;
+    transition: 0.5s;
+  }
+  .enquiry-btn:hover span {
+    padding-right: 25px;
+  }
+  .enquiry-btn:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+/* -------------------- Form Style -------------  */
+#enquiry .input-group{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+#enquiry .input-group input{
+  border-radius: 5px;
+  font-size: 15px;
+  margin-top: 5px;
+  padding: 10px;
+  border: 1px solid rgb(54,134,245);
+}
+#enquiry .input-group input:focus{
+  outline: none;
+}
+.input-group .error{
+  color: #f71616;
+  font-size: 13px;
+}
+.success-element{
+  border: 1px solid #00fa00 !important;
+}
+.error-element{
+  border: 1px solid #f71616 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
   .wave {
     animation-name: wave;
     animation-duration: 1s;
@@ -310,6 +385,7 @@ nav{
     animation-iteration-count: infinite;
   }
   
+
   @keyframes wave {
     0% {box-shadow: 0 0 0px 0px rgba(255, 255, 255, 0.5);}
     100% {box-shadow: 0 0 0px 10px rgba(255, 255, 255, 0);}
@@ -852,7 +928,12 @@ padding: 15px 0px 0px 0px;
   color: #fff;
   transition: all .3s ease-in;
 }
-
+.service-show{
+  display: block;
+}
+.service-hide{
+  display: none;
+}
 @media only screen and (max-width: 1200px) and (min-width: 991px){
   .list-services > ul{
     list-style-type: none;
