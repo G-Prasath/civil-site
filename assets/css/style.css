@@ -873,7 +873,8 @@ padding: 15px 0px 0px 0px;
   padding-left: 0px;
 }
 .service-card{
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 5px;
 }
 .service-img{
   width: 100%;
@@ -912,7 +913,6 @@ padding: 15px 0px 0px 0px;
   width: 100%;
   padding: 10px 10px 10px 0px;
   border-top: 1px solid #ccc;
-
 }
 .service-btn > a{
   text-decoration: none;
@@ -1112,6 +1112,170 @@ padding: 15px 0px 0px 0px;
     border-bottom-width: 10px;
   }
 }
-
 /* =================== End Testimonials ==========  */
 
+/* ================== Start Blog =================== */
+#home-blog{
+  padding-top: 50px;
+}
+.blog-list ul{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: auto;
+  grid-gap: 2rem;
+  list-style-type: none;
+}
+.home-blog-card{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 5px;
+}
+.home-blog-img {
+  overflow: hidden;
+}
+.home-blog-img > img{
+  transition: all .5s ease-out;
+}
+.home-blog-img > img:hover{
+  transform: scale(1.1);
+  transition: all .5s ease-in;
+}
+.home-blog-cnt{
+  padding: 15px;
+}
+.home-blog-cnt > h6{
+  color: #fd5f17;
+  font-size: 0.875rem;
+}
+.home-blog-cnt > p:nth-child(2){
+  font-size: 1.125rem;
+  color: #131e4a;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.home-blog-cnt > p:nth-child(3){
+  font-size: 14px;
+  color: #383333;
+}
+.home-blog-cnt > p:nth-child(3)::before{
+  content: "🗓";
+  padding-right: 5px;
+  /* position: absolute; */
+  font-size: 18px;
+
+}
+.home-blog-cnt > a{
+  text-decoration: none;
+  color: #131e4a;
+  font-size: 14px;
+  transition: all .3s ease-out;
+}
+.home-blog-cnt > a::after{
+  content: "»";
+  position: absolute;
+  font-size: 20px;
+  padding-left: 5px;
+  margin-top: -3px;
+  transition: all .3s ease-out;
+}
+.home-blog-cnt > a:hover{
+  color: #fd5f17;
+  margin-left: 10px;
+  transition: all .3s ease-in;
+}
+
+@media only screen and (max-width: 990px) {
+  .blog-list ul{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+    list-style-type: none;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .blog-list ul{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+    list-style-type: none;
+  }
+}
+/* =============== End Blog =======================  */
+
+/* =================== Start Fun Fact ============  */
+#fun-fact{
+  padding-top: 50px;
+}
+.funfacts > ul{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: auto;
+  grid-gap: 2rem;
+  list-style-type: none;
+}
+.fun-card{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 10px;
+}
+.fun-card .funfact-card-img img{
+  width: 70px;
+}
+.funfacts ul li .fun-card:nth-child(4)
+{
+  border: 2px solid red;
+}.fun-card .funfact-counter > p{
+  font-size: 25px;
+  font-weight: 600;
+  color: #5a5858;
+}
+/* ================= End fun fact ================  */
+
+/* =================== Start CTA Section =============  */
+#cta-sec{
+  margin-top: 50px;
+  background-color: #005966;
+  margin-bottom: 100px;
+}
+.cta-cnt{
+  padding: 0px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.cta-heading > p{
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 0px;
+  padding: 20px 0px;
+}
+.cta-btn > a{
+  text-decoration: none;
+  color: #fff;
+  margin: 0px 10px;
+  border: 1px solid #fff;
+  padding: 10px 15px;
+  border-radius: 4px;
+  transition: all .3s ease-in;
+
+}
+.cta-btn > a:hover{
+  background-color: #FFF;
+  color: #005966;
+  font-weight: 600;
+  transition: all .3s ease-in;
+}
+@media screen and (max-width: 768px) {
+  .cta-cnt{
+    padding: 30px 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+}
+/* =================== End CTA Section =============  */
