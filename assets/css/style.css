@@ -1653,3 +1653,91 @@ padding: 15px 0px 0px 0px;
   }
 
 }
+
+
+/* ====================================================
+                ABOUT PAGE
+    =================================================== */
+.banner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/about/about-cover.jpg') no-repeat center; 
+  width: 100%;
+  height: 50vh;
+}
+.banner > h1{
+  color: #fff;
+  font-weight: bold;
+  font-size: 50px;
+}
+#bredcurm{
+  background-color: #ebf5f8;
+}
+.bredcurm-cnt{
+  padding: 15px 50px;
+}
+.bredcurm-cnt > a{
+  text-decoration: none;
+  color: #005966;
+  font-weight: 600;
+}
+.bredcurm-cnt span:nth-child(2){
+  color: #ccc;
+  font-weight: 600;
+}
+
+/* ------------- Page content Start -----------------  */
+.about-page-cnt{
+  padding-top: 30px;
+}
+.about-page-cnt > h2{
+  font-size: 24px;
+  font-weight: bold;
+  color: #005966;
+}
+.about-page-cnt > p{
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 10px;
+}
+.about-page-cnt > ul{
+  list-style-type: none;
+}
+.about-page-cnt > ul > li{
+  padding: 3px 0px;
+}
+.about-page-cnt > ul > li > span{
+  content: "";
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  background-color: #fff;
+  margin: 8px -22px;
+  border-radius: 50px;
+  /* padding: 10px; */
+  border: 2px solid #005966;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: myAnim 1000ms ease-in 1000ms infinite reverse none;
+}
+@keyframes myAnim {
+	0% {
+		box-shadow: 0 0 0 0 rgba(0, 89, 102, 1);
+		transform: scale(1);
+	}
+
+	100% {
+		box-shadow: 0 0 10px 0px rgba(0, 89, 102, 0);
+		transform: scale(1.1);
+	}
+}
+.about-page-cnt > ul > li > span > span{
+  content: "";
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  background-color: #005966;
+  border-radius: 50px;
+}
