@@ -68,7 +68,37 @@
         </div>
     </div>
 
-
+    <!-- ---------------------- Vision Mision quality ------------------------  -->
+    <div id="vmq">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="vmq-sec">
+                        <ul>
+                            <li>
+                                <div class="vmq-cnt">
+                                    <h6>VISION</h6>
+                                    <p>Our vision is to become the most respected solution providers in the Manufacturing Industry and build a modern society. We also have a services sector that strives to achieve the same level of excellence and cost- elective turnkey solution for our customers.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="vmq-cnt">
+                                    <h6>MISION</h6>
+                                    <p>MEKARK aims to be a manufacturer and supplier of prefabricated and prefabricated buildings, committed to providing quality, fast and cost-effective solutions to business. Our aim is to provide innovative and sustainable solutions that meet the changing needs of our customers, providing on-time delivery and Highest quality customer service.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="vmq-cnt">
+                                    <h6>QUALITY</h6>
+                                    <p>To provide products and services that meets or exceeds customer expectations through continuous improvement and adherence to quality management systems.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 
