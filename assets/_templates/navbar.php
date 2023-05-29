@@ -33,7 +33,7 @@
         <i class='bx bx-x' ></i>
       </div>
       <ul class="links">
-        <li><a href="#">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="about.php">About</a></li>
         <li>
           <a href="#">Residential</a>

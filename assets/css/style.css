@@ -1795,7 +1795,7 @@ padding: 15px 0px 0px 0px;
   height: 700px;
   display: inline-grid;
   align-items: center;
-  background: linear-gradient(#f9b46b, #38a2d7);
+  background: linear-gradient(#ff8400, #00aaff);
   animation: dummy 6s linear infinite;
   margin-top: -50px;
   left: 25%;
@@ -1804,7 +1804,7 @@ padding: 15px 0px 0px 0px;
 .vmq-cnt::after{
   content: "";
   position: absolute;
-  inset: 3px;
+  inset: 4px;
   border-radius: 5px;
   background: #fff;
 }
@@ -1817,7 +1817,61 @@ padding: 15px 0px 0px 0px;
   }
 }
 
+/* ================== Why Choose =====================  */
 
+#why-choose{
+  padding-top: 30px;
+}
+.why-choose-sec > ul{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: auto;
+  grid-gap: 1rem;
+  list-style-type: none;
+}
+@media (max-width: 1085px) {
+  .why-choose-sec > ul{
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 991px) {
+  .why-choose-sec > ul{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .why-choose-sec > ul{
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+.why-choose-card{
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 1.6px;
+  border-radius: 5px;
+}
+.why-choose-card > img{
+  transition: all .3s ease-out;
+
+}
+.why-choose-card:hover img{
+  transform: scale(1.10);
+  transition: all .3s ease-in;
+}
+.why-choose-card > img{
+  width: 70px;
+  margin-bottom: 20px;
+}
+.why-choose-card > p{
+  font-size: 13px;
+  margin: 0px;
+  text-align: center;
+  font-weight: bold;
+}
 
 
 

@@ -99,7 +99,78 @@
             </div>
         </div>
     </div>
-
+    <!-- --------------------- why Chooses ----------------------  -->
+    <div id="why-choose">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="sec-heading">
+                        <div class="sec-main">
+                          <img src="assets/images/home/sec-icons/why-choose.gif" alt="">
+                          <h2>Why Chooses</h2>
+                        </div>
+                        <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="why-choose-sec">
+                        <ul>
+                            <li>
+                                <div class="why-choose-card">
+                                    <img src="assets/images/about/why-choose/customer-loyalty.png" class="img-fluid" alt="" />
+                                    <p>Customer Loyalty & Transparency</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-card">
+                                    <img src="assets/images/about/why-choose/hassel.png" class="img-fluid" alt="" />
+                                    <p>Hassle Free Execution</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-card">
+                                    <img src="assets/images/about/why-choose/global.png" class="img-fluid" alt="" />
+                                    <p>Global Business Strategy</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-card">
+                                    <img src="assets/images/about/why-choose/project-delivery.png" class="img-fluid" alt="" />
+                                    <p>On Time Project Delivery</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-card">
+                                    <img src="assets/images/about/why-choose/commited-team.png" class="img-fluid" alt="" />
+                                    <p>Passionately Committed Team</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-card">
+                                    <img src="assets/images/about/why-choose/perfaction.png" class="img-fluid" alt="" />
+                                    <p>Perfection Reassured</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-card">
+                                    <img src="assets/images/about/why-choose/problem-solving.png" class="img-fluid" alt="" />
+                                    <p>Excellence in Problem Solving</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-card">
+                                    <img src="assets/images/about/why-choose/promise.png" class="img-fluid" alt="" />
+                                    <p>Promising Expertise</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 
