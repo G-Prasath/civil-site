@@ -167,6 +167,9 @@ nav{
   .sub-menu{
     padding: 0px;
   }
+  .sub-menu  li{
+    border-bottom: 1px solid red;
+  }
   nav .navbar .links li .sub-menu{
     position: absolute;
     top: 70px;
@@ -187,6 +190,10 @@ nav{
     padding: 0 22px;
     border-bottom: 1px solid rgba(255,255,255,0.1);
   }
+  .navbar .links li .sub-menu li:not(:last-child){
+    border-bottom: 1px solid #005966;
+  }
+
   .navbar .links li .sub-menu a{
     color: #2f5764;
     font-size: 15px;
@@ -1658,19 +1665,20 @@ padding: 15px 0px 0px 0px;
 /* ====================================================
                 ABOUT PAGE
     =================================================== */
-.banner{
+#about-banner .banner{
   display: flex;
   align-items: center;
   justify-content: center;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/about/about-cover.jpg') no-repeat center; 
   width: 100%;
-  height: 50vh;
+  height: 70vh;
 }
 .banner > h1{
   color: #fff;
   font-weight: bold;
   font-size: 50px;
 }
+
 #bredcurm{
   background-color: #ebf5f8;
 }
@@ -1682,8 +1690,8 @@ padding: 15px 0px 0px 0px;
   color: #005966;
   font-weight: 600;
 }
-.bredcurm-cnt span:nth-child(2){
-  color: #ccc;
+.bredcurm-cnt span{
+  color: #b7b1b1;
   font-weight: 600;
 }
 
@@ -1715,7 +1723,6 @@ padding: 15px 0px 0px 0px;
   background-color: #fff;
   margin: 8px -22px;
   border-radius: 50px;
-  /* padding: 10px; */
   border: 2px solid #005966;
   display: flex;
   align-items: center;
@@ -1839,7 +1846,7 @@ padding: 15px 0px 0px 0px;
     grid-template-columns: repeat(2, 1fr);
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 575px) {
   .why-choose-sec > ul{
     grid-template-columns: repeat(1, 1fr);
   }
@@ -1873,10 +1880,195 @@ padding: 15px 0px 0px 0px;
   font-weight: bold;
 }
 
+/* ====================================================
+                HOUSE PAGE
+    =================================================== */
+    #house-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/residential/cover-img/house.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    .house-cnt{
+      position: relative;
+      padding-top: 50px;
+    }
+    .house-cnt > img{
+      width: 50%;
+      float: right;
+      padding: 10px 10px 15px 10px;
+    }
+    @media (max-width: 991px) {
+      .house-cnt > img{
+        width: 100%;
+      }
+    }
+    .house-cnt > p{
+      line-height: 27px;
+      font-size: 15px;
+    }
+
+/* ------------- Page content Start -----------------  */
+.page-cnt{
+  padding-top: 0px;
+}
+.page-cnt > h2{
+  font-size: 24px;
+  font-weight: bold;
+  color: #005966;
+}
+.page-cnt > p{
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 10px;
+}
+.page-cnt > ul{
+  list-style-type: none;
+}
+.page-cnt > ul > li{
+  padding: 3px 0px;
+  line-height: 28px;
+}
+.page-cnt > ul > li > span{
+  content: "";
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  background-color: #fff;
+  margin: 8px -22px;
+  border-radius: 50px;
+  border: 2px solid #005966;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: myAnim 1000ms ease-in 1000ms infinite reverse none;
+}
+@keyframes myAnim {
+	0% {
+		box-shadow: 0 0 0 0 rgba(0, 89, 102, 1);
+		transform: scale(1);
+	}
+
+	100% {
+		box-shadow: 0 0 10px 0px rgba(0, 89, 102, 0);
+		transform: scale(1.1);
+	}
+}
+.page-cnt > ul > li > span > span{
+  content: "";
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  background-color: #005966;
+  border-radius: 50px;
+}
+
+.gallery > ul{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: auto;
+  grid-gap: .5rem;
+  list-style-type: none;
+}
+
+@media (max-width: 991px) {
+  .gallery > ul{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 576px) {
+  .gallery > ul{
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
 
 
+/* ====================================================
+                FLATS PAGE
+    =================================================== */
+    #flats-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/residential/cover-img/flats.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #flats-banner > p, li{
+      font-size: 15px;
+    }
 
-
-
+/* ====================================================
+                Condominium PAGE
+    =================================================== */
+    #condominium-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/residential/cover-img/condominum.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #condominium-banner > p, li{
+      font-size: 15px;
+    }
+/* ====================================================
+                Duplex PAGE
+    =================================================== */
+    #duplex-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/residential/cover-img/duplex.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #duplex-banner > p, li{
+      font-size: 15px;
+    }
+    /* ====================================================
+                Cloude Storage PAGE
+    =================================================== */
+    #cloud-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/industrial/cover-img/cloud.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #cloud-banner > p, li{
+      font-size: 15px;
+    }
+/* ====================================================
+                Data Center PAGE
+    =================================================== */
+    #data-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/industrial/cover-img/data-center.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #data-banner > p, li{
+      font-size: 15px;
+    }
+  /* ====================================================
+                Manufacture Buildings PAGE
+    =================================================== */
+    #manufacture-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/industrial/cover-img/manifacture.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #manufacture-banner > p, li{
+      font-size: 15px;
+    }
 
 

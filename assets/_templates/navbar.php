@@ -39,19 +39,19 @@
           <a href="#">Residential</a>
           <i class='bx bxs-chevron-down htmlcss-arrow arrow'></i>
           <ul class="htmlCss-sub-menu sub-menu">
-            <li><a href="#">House</a></li>
-            <li><a href="#">Flats</a></li>
-            <li><a href="#">Condominium</a></li>
-            <li><a href="#">Duplex</a></li>
+            <li><a href="house.php">House</a></li>
+            <li><a href="flats.php">Flats</a></li>
+            <li><a href="condominium.php">Condominium</a></li>
+            <li><a href="duplex.php">Duplex</a></li>
           </ul>
         </li>
         <li>
           <a href="#">Industrial</a>
           <i class='bx bxs-chevron-down js-arrow arrow'></i>
           <ul class="js-sub-menu sub-menu">
-            <li><a href="#">Cold Storage Buildings</a></li>
-            <li><a href="#">Data Centers</a></li>
-            <li><a href="#">Manufacturing Buildings</a></li>
+            <li><a href="cloud-storage.php">Cold Storage Buildings</a></li>
+            <li><a href="data-center.php">Data Centers</a></li>
+            <li><a href="manufacture.php">Manufacturing Buildings</a></li>
           </ul>
         </li>
         <li>
