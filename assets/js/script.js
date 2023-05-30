@@ -65,7 +65,6 @@ $('.tab-menu-btn ul li').click(function() {
   });
 
 //   =================== Form Validation ================ 
-
 $(document).ready(function(){
     var form = document.querySelector("#enquiry");
     var name = document.querySelector("#name");
@@ -149,6 +148,7 @@ $(document).ready(function(){
           .match(/^\d{10}$/)
       };
 })
+
 
 // ================== FAQ ================ 
 $(document).ready(function() {

@@ -347,6 +347,9 @@ nav{
   }
 
 /* -------------------- Form Style -------------  */
+
+
+
 #enquiry .input-group{
   display: flex;
   flex-direction: column;
@@ -2145,4 +2148,83 @@ padding: 15px 0px 0px 0px;
       font-size: 15px;
     }
 
+    /* ====================================================
+                Warehouses Buildings PAGE
+    =================================================== */
+    #contact-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/contact/contact-cover.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #contact-banner > p, li{
+      font-size: 15px;
+    }
 
+
+/* =========================
+    Contact US Page
+=================================*/
+.contact-card{
+  padding-top: 50px;
+}
+.contact-card > ul{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: auto;
+  grid-gap: 1rem;
+  list-style-type: none;
+}
+.contact-form > h2{
+  font-size: 17px;
+  padding: 8px 0px;
+  color: #de9d67;
+}
+.contact-form > h3{
+  font-size: 25px;
+  padding-bottom: 20px;
+  font-weight: 600;
+  color: #005966;
+}
+
+#contact-enquiry .input-group{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+#contact-enquiry .input-group input{
+  border-radius: 5px;
+  font-size: 15px;
+  margin-top: 5px;
+  padding: 10px;
+  border: 1.5px solid #ccc;
+}
+#contact-enquiry .input-group input:focus{
+  outline: none;
+}
+
+
+
+
+
+
+
+
+
+.map_sec{
+  padding: 50px 0px;
+}
+.map_inner h4, .map_inner p{
+  color: #000;
+  text-align: center
+}
+.map_inner p{
+  font-size: 13px;
+}
+.map_bind{
+ margin-top: 50px;
+  border-radius: 30px;
+  overflow: hidden;
+}

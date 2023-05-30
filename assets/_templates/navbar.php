@@ -46,26 +46,29 @@
           </ul>
         </li>
         <li>
-          <a href="#">Industrial</a>
-          <i class='bx bxs-chevron-down js-arrow arrow'></i>
-          <ul class="js-sub-menu sub-menu">
-            <li><a href="cloud-storage.php">Cold Storage Buildings</a></li>
-            <li><a href="data-center.php">Data Centers</a></li>
-            <li><a href="manufacture.php">Manufacturing Buildings</a></li>
-          </ul>
-        </li>
-        <li>
           <a href="#">Commercial</a>
           <i class='bx bxs-chevron-down tst-arrow arrow'></i>
           <ul class="tst-sub-menu sub-menu">
-            <li><a href="hospitals.php">Hospitals</a></li>
+            <li><a href="hospitals.php">Hospitals / Pharma</a></li>
             <li><a href="shopping.php">Shopping complexes</a></li>
             <li><a href="school-collage.php">School / Collages</a></li>
             <li><a href="office.php">Office</a></li>
-            <li><a href="warehouse.php">Warehouses</a></li>
+            <li><a href="#">Hotel / Resorts</a></li>
           </ul>
         </li>
-        <li><a href="#">Contact Us</a></li>
+        <li>
+          <a href="#">Industrial</a>
+          <i class='bx bxs-chevron-down js-arrow arrow'></i>
+          <ul class="js-sub-menu sub-menu">
+            <li><a href="#">Warehouse Construction</a></li>
+            <li><a href="#">Multistorey Buildings</a></li>
+            <li><a href="data-center.php">Data Centers</a></li>
+            <li><a href="#">Plant Construction</a></li>
+            <li><a href="#">Oil & Gas Construction</a></li>
+          </ul>
+        </li>
+        
+        <li><a href="contact.php">Contact Us</a></li>
       </ul>
     </div>
   </div>

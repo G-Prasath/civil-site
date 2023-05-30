@@ -94,7 +94,7 @@
                         <ul>
                             <?php
 
-                            $images = glob("assets/images/residential/house/gallery" . "/*.png");
+                            $images = glob("assets/images/residential/duplex/gallery" . "/*.png");
                             foreach($images as $image)
                             {?>
                             <li>
