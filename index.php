@@ -436,71 +436,6 @@
 </div>
 <!-- ---------------- End Testimonial -------- -->
 
-<!-- --------------- Start Blog Page -------->
-<div id="home-blog">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="sec-heading">
-          <div class="sec-main">
-            <img src="assets/images/home/sec-icons/blog.gif" alt="">
-            <h2>Blog</h2>
-          </div>
-          <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-          <div class="blog-list">
-            <ul>
-              <li>
-                <div class="home-blog-card">
-                  <div class="home-blog-img">
-                    <img src="assets/images/home/resdential.jpg" class="img-fluid" alt="">
-                  </div>
-                  <div class="home-blog-cnt">
-                    <h6>Residential</h6>
-                    <p>Manufacturing is a sector that is constantly evolving</p>
-                    <p>May 19 2023</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="home-blog-card">
-                  <div class="home-blog-img">
-                    <img src="assets/images/home/industrial.jpg" class="img-fluid" alt="">
-                  </div>
-                  <div class="home-blog-cnt">
-                    <h6>Industrial</h6>
-                    <p>Manufacturing is a sector that is constantly evolving</p>
-                    <p>May 19 2023</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="home-blog-card">
-                  <div class="home-blog-img">
-                    <img src="assets/images/home/commerical.jpg" class="img-fluid" alt="">
-                  </div>
-                  <div class="home-blog-cnt">
-                    <h6>Commercial</h6>
-                    <p>Manufacturing is a sector that is constantly evolving</p>
-                    <p>May 19 2023</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- --------------- End Blog Page ---------->
-
 <!-------------- start Fun Fact --------->
 <div id="fun-fact">
   <div class="container">
@@ -567,6 +502,72 @@
   </div>
 </div>
 <!-------------- end Fun Fact ----------->
+
+<!-- --------------- Start Blog Page -------->
+<div id="home-blog">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sec-heading">
+          <div class="sec-main">
+            <img src="assets/images/home/sec-icons/blog.gif" alt="">
+            <h2>Blog</h2>
+          </div>
+          <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+          <div class="blog-list">
+            <ul>
+              <li>
+                <div class="home-blog-card">
+                  <div class="home-blog-img">
+                    <img src="assets/images/home/resdential.jpg" class="img-fluid" alt="">
+                  </div>
+                  <div class="home-blog-cnt">
+                    <h6>Residential</h6>
+                    <p>Manufacturing is a sector that is constantly evolving</p>
+                    <p>May 19 2023</p>
+                    <a href="#">Read More</a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="home-blog-card">
+                  <div class="home-blog-img">
+                    <img src="assets/images/home/industrial.jpg" class="img-fluid" alt="">
+                  </div>
+                  <div class="home-blog-cnt">
+                    <h6>Industrial</h6>
+                    <p>Manufacturing is a sector that is constantly evolving</p>
+                    <p>May 19 2023</p>
+                    <a href="#">Read More</a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="home-blog-card">
+                  <div class="home-blog-img">
+                    <img src="assets/images/home/commerical.jpg" class="img-fluid" alt="">
+                  </div>
+                  <div class="home-blog-cnt">
+                    <h6>Commercial</h6>
+                    <p>Manufacturing is a sector that is constantly evolving</p>
+                    <p>May 19 2023</p>
+                    <a href="#">Read More</a>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- --------------- End Blog Page ---------->
+
 </div>
 
 <!-- ============== Start Footer Section ==============-->

@@ -58,10 +58,11 @@
           <a href="#">Commercial</a>
           <i class='bx bxs-chevron-down tst-arrow arrow'></i>
           <ul class="tst-sub-menu sub-menu">
-            <li><a href="#">Hospitals</a></li>
-            <li><a href="#">Shopping complexes</a></li>
-            <li><a href="#">Office</a></li>
-            <li><a href="#">Warehouses</a></li>
+            <li><a href="hospitals.php">Hospitals</a></li>
+            <li><a href="shopping.php">Shopping complexes</a></li>
+            <li><a href="school-collage.php">School / Collages</a></li>
+            <li><a href="office.php">Office</a></li>
+            <li><a href="warehouse.php">Warehouses</a></li>
           </ul>
         </li>
         <li><a href="#">Contact Us</a></li>

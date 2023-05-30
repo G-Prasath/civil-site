@@ -1275,7 +1275,7 @@ padding: 15px 0px 0px 0px;
 
 /* ================== Start Blog =================== */
 #home-blog{
-  padding-top: 50px;
+  padding-top: 30px;
 }
 .blog-list ul{
   display: grid;
@@ -2068,6 +2068,80 @@ padding: 15px 0px 0px 0px;
       height: 70vh;
     }
     #manufacture-banner > p, li{
+      font-size: 15px;
+    }
+/* ====================================================
+                Hospital Buildings PAGE
+    =================================================== */
+    #hospital-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/commercial/cover-img/hospital.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #hospital-banner > p, li{
+      font-size: 15px;
+    }
+
+    /* ====================================================
+                Shopping Complex Buildings PAGE
+    =================================================== */
+    #shopping-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/commercial/cover-img/shopping.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #shopping-banner > p, li{
+      font-size: 15px;
+    }
+
+ /* ====================================================
+                Scholl Collages Buildings PAGE
+    =================================================== */
+    #school-collage-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/commercial/cover-img/school.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #school-collage-banner > p, li{
+      font-size: 15px;
+    }
+
+    /* ====================================================
+                Office Buildings PAGE
+    =================================================== */
+    #office-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/commercial/cover-img/office.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #office-banner > p, li{
+      font-size: 15px;
+    }
+
+/* ====================================================
+                Warehouses Buildings PAGE
+    =================================================== */
+    #warehouses-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/commercial/cover-img/warehouses.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #warehouses-banner > p, li{
       font-size: 15px;
     }
 
