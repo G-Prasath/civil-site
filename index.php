@@ -210,7 +210,7 @@
                   <img src="assets/images/home/services/sample.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
-                    <h3>Cold Storage Buildings</h3>
+                    <h3>Hospitals / Pharma</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
@@ -224,7 +224,7 @@
                   <img src="assets/images/home/services/sample-2.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
-                    <h3>Data Centers</h3>
+                    <h3>Shopping Complex</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
@@ -237,7 +237,31 @@
                   <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
-                    <h3>Manufacturing Buildings</h3>
+                    <h3>School / Collages</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+              <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Office</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+              <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Hotel / Resorts</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
@@ -259,7 +283,7 @@
                   <img src="assets/images/home/services/sample.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
-                    <h3>Hospitals</h3>
+                    <h3>Warehouse Construction</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
@@ -273,7 +297,7 @@
                   <img src="assets/images/home/services/sample-2.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
-                    <h3>Shopping complexes</h3>
+                    <h3>Chimney</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
@@ -286,7 +310,7 @@
                   <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
-                    <h3>Office</h3>
+                    <h3>Data Centers</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
@@ -298,7 +322,19 @@
                   <img src="assets/images/home/services/sample-4.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
-                    <h3>Warehouses</h3>
+                    <h3>Plant Construction</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+              <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/sample-4.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Oil & Gas Construction</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
@@ -371,7 +407,6 @@
     </div>
   </div>
 </div>
-
 <!-- --------------- End FAQ Videos -------------->
 
 <!-- ---------------- Start Testimonial -------- -->

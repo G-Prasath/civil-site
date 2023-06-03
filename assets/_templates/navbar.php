@@ -53,18 +53,18 @@
             <li><a href="shopping.php">Shopping complexes</a></li>
             <li><a href="school-collage.php">School / Collages</a></li>
             <li><a href="office.php">Office</a></li>
-            <li><a href="#">Hotel / Resorts</a></li>
+            <li><a href="hotel.php">Hotel / Resorts</a></li>
           </ul>
         </li>
         <li>
           <a href="#">Industrial</a>
           <i class='bx bxs-chevron-down js-arrow arrow'></i>
           <ul class="js-sub-menu sub-menu">
-            <li><a href="#">Warehouse Construction</a></li>
-            <li><a href="#">Multistorey Buildings</a></li>
+            <li><a href="warehouse.php">Warehouse Construction</a></li>
+            <li><a href="chimney.php">Chimney</a></li>
             <li><a href="data-center.php">Data Centers</a></li>
-            <li><a href="#">Plant Construction</a></li>
-            <li><a href="#">Oil & Gas Construction</a></li>
+            <li><a href="plants.php">Plant Construction</a></li>
+            <li><a href="oil.php">Oil & Gas Construction</a></li>
           </ul>
         </li>
         

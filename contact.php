@@ -13,7 +13,7 @@
     <!-- ---------------- Icons --------------------->
     <link href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
 
-    -------- Light Box ----------
+    <!-- -------- Light Box ---------- -->
     <link rel="stylesheet" href="assets/css/lightbox.min.css">
     <script type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
 
@@ -59,32 +59,31 @@
                            <div class="contact-form">
                             <h2>Contact With Us</h2>
                             <h3>Call Us Or Fill The Form</h3>
-                            <form method="post" action="javascript:;" id="contact-enquiry">
-                              <div class="input-group col-md-6">
-                                <input type="text" id="name" name="name" placeholder="Name">
-                                <div class="error"></div>
-                              </div>
-                              <div class="input-group col-md-6">
-                                <input type="text" id="email" name="email" placeholder="Email">
-                                <div class="error"></div>
-                              </div>
-                              <div class="input-group">
-                                <input type="text" id="phone" name="phone" placeholder="Phone">
-                                <div class="error"></div>
-                              </div>
-                              <div class="input-group">
-                                <input name="msg" id="msg" style="height: 75px" placeholder="Message">
-                                <div class="error"></div>
-                              </div>
-                              <div class="d-grid gap-2">
-                              <button class="enquiry-btn" name="submit" type="submit"><span>Send</span></button>
-                                
-                              </div>
-                            </form>
+                                <form mthod="post" action="javascript:;" id="contact-form">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="name" placeholder="Name">
+                                    </div>
+                                    <div class="form-group">
+                                      <input type="email" class="form-control" id="email" placeholder="Enter email">
+                                    </div>
+                                    <div class="form-group">
+                                      <input type="text" class="form-control" id="phone" placeholder="Phone Number">
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea class="form-control" id="msg" rows="3" placeholder="Enter Your Message"></textarea>
+                                    </div>
+                                    <button type="submit" class="contact-form-btn">Submit</button>
+                                </form>
                            </div>
                         </li>
                         <li>
-                            2
+                           <div class="contact-info">
+                                <ul>
+                                    <li><i class='bx bx-phone-call'></i><a href="tel:9790924754">+91 97909 24754</a></li>
+                                    <li><i class='bx bx-envelope' style='color:#ffffff'></i><a href="mailto:admin@mekark.com">admin@mekark.com</a></li>
+                                    <li><i class='bx bx-location-plus' style='color:#ffffff'></i>15,62nd street, Ashok Nagar, Chennai-600083</li>
+                                </ul>
+                           </div>
                         </li>
                     </ul>
                 </div>
@@ -123,7 +122,7 @@
 
   <!-- ---------------- External JS --------------------------->
   <script src="assets/js/script.js"></script>
-
+  
 
 </body>
 </html>

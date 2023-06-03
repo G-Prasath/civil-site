@@ -24,12 +24,12 @@
 <?php include_once 'assets/_templates/navbar.php' ?>
 <!-- ----------- End Navbar ---------- -->
 
-<div id="warehouses-banner">
+<div id="oil-banner">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 p-0">
                 <div class="banner">
-                    <h1>Warehouses</h1>
+                    <h1>Oil & Gas Construction</h1>
                 </div>
             </div>
         </div>
@@ -44,7 +44,7 @@
                     <span>/</span>
                     <a href="index.php">Industrial</a>
                     <span>/</span>
-                    <span>Warehouses</span>
+                    <span>Oil & Gas Construction</span>
                 </div>
             </div>
         </div>
@@ -94,7 +94,7 @@
                         <ul>
                             <?php
 
-                            $images = glob("assets/images/industrial/warehouse/gallery" . "/*.png");
+                            $images = glob("assets/images/Industrial/oil/gallery" . "/*.png");
                             foreach($images as $image)
                             {?>
                             <li>
