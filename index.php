@@ -13,6 +13,9 @@
     <!-- ---------------- Icons --------------------->
     <link href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
 
+    <!-- ----------- Google Recaptcha -----------------  -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
     <!-- -------- Light Box ---------- -->
     <link rel="stylesheet" href="assets/css/lightbox.min.css">
     <script type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
@@ -614,6 +617,9 @@
 
   <!-- ------------- Jqury CDN --------------------  -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+
 
   <!-- ---------------- External JS --------------------------->
   <script src="assets/js/script.js"></script>

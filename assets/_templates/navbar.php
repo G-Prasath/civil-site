@@ -95,29 +95,24 @@
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-              <form method="post" action="#" id="enquiry">
+              <form id="enquiry">
                 <div class="input-group">
-                  <label for="name">Name</label>
-                  <input type="text" id="name" name="name">
-                  <div class="error"></div>
+                  <input type="text" id="name" name="name" placeholder="Name" required>
                 </div>
                 <div class="input-group">
-                  <label for="email">Email</label>
-                  <input type="text" id="email" name="email">
-                  <div class="error"></div>
+                  <input type="text" id="email" name="email" placeholder="Email" required>
                 </div>
                 <div class="input-group">
-                  <label for="phone">Phone</label>
-                  <input type="text" id="phone" name="phone">
-                  <div class="error"></div>
+                  <input type="text" id="phone" name="phone" placeholder="Phone" required>
                 </div>
                 <div class="input-group">
-                  <label for="msg">Message</label>
-                  <input name="msg" id="msg" style="height: 75px">
-                  <div class="error"></div>
+                  <input name="msg" id="msg" style="height: 75px" placeholder="Message" required>
                 </div>
-                <div class="d-grid gap-2">
-                  <button class="enquiry-btn" name="submit" type="submit"><span>Send</span></button>
+                <div class="input-group">
+                  <div class="g-recaptcha" data-sitekey="6LfZKW0mAAAAAPNeZMvbzHhEBvMs8IS-AJ1WvF0V"></div>
+                </div>
+                <div class="d-grid">
+                  <button type="submit" name="submit" class="enquiry-btn"><span>Send</span></button>
                 </div>
               </form>
             </div>

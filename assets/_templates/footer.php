@@ -48,7 +48,7 @@
                 </div>
                 <div class="f-links">
                   <ul>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="career.php">Career</a></li>
                     <li><a href="#">Our Products</a></li>
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">Career</a></li>

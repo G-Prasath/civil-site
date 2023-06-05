@@ -13,6 +13,9 @@
     <!-- ---------------- Icons --------------------->
     <link href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
 
+    <!-- ----------- Google Recaptcha -----------------  -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
     <!-- -------- Light Box ---------- -->
     <link rel="stylesheet" href="assets/css/lightbox.min.css">
     <script type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
@@ -59,20 +62,23 @@
                            <div class="contact-form">
                             <h2>Contact With Us</h2>
                             <h3>Call Us Or Fill The Form</h3>
-                                <form mthod="post" action="javascript:;" id="contact-form">
+                                <form id="contact-form">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="name" placeholder="Name">
+                                        <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
                                     </div>
                                     <div class="form-group">
-                                      <input type="email" class="form-control" id="email" placeholder="Enter email">
+                                      <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required>
                                     </div>
                                     <div class="form-group">
-                                      <input type="text" class="form-control" id="phone" placeholder="Phone Number">
+                                      <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone Number" required>
                                     </div>
                                     <div class="form-group">
-                                        <textarea class="form-control" id="msg" rows="3" placeholder="Enter Your Message"></textarea>
+                                        <textarea class="form-control" id="msg" name="msg" rows="3" placeholder="Enter Your Message" required></textarea>
                                     </div>
-                                    <button type="submit" class="contact-form-btn">Submit</button>
+                                    <div class="form-group">
+                                        <div class="g-recaptcha" data-sitekey="6LfZKW0mAAAAAPNeZMvbzHhEBvMs8IS-AJ1WvF0V"></div>
+                                    </div>
+                                    <button type="submit" name="submit" class="contact-form-btn">Submit</button>
                                 </form>
                            </div>
                         </li>
@@ -119,6 +125,11 @@
 
   <!-- ------------- Jqury CDN --------------------  -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+
+
+  
 
   <!-- ---------------- External JS --------------------------->
   <script src="assets/js/script.js"></script>
