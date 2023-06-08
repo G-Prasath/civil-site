@@ -641,7 +641,7 @@ nav{
     height: 84vh;
   }
   .first-slide{
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/home/slide-img/slide-1.jpg') no-repeat fixed center; 
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), white url('../images/home/slide-img/slide-1.jpeg') no-repeat fixed center; 
   }
   .second-slide{
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)), white url('../images/home/slide-img/slide-2.jpg') no-repeat fixed center;  

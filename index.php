@@ -105,7 +105,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="about-img">
-            <img src="assets/images/home/about.jpg" class="img-fluid" alt="">
+            <img src="assets/images/home/about.jpeg" class="img-fluid" alt="">
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti, unde ratione! Dolorem nihil architecto, odit laudantium, dolorum labore atque magni, dignissimos cumque quas deleniti id neque facere velit cupiditate animi rerum beatae mollitia numquam quidem est possimus vero. Rem, dolores. Officiis illum in cupiditate similique error laboriosam dignissimos earum ab.</p>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis repudiandae officia itaque veniam!</p>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis magnam aliquid reprehenderit esse iure repudiandae officia itaque veniam!</p>
@@ -149,7 +149,7 @@
             <li>
               <div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/house.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>House</h3>
@@ -163,7 +163,7 @@
             <li>
               <div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-2.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/flats.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Flats</h3>
@@ -176,7 +176,7 @@
             </li>
             <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/condominium.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Condominium</h3>
@@ -188,7 +188,7 @@
               </div></li>
             <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-4.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/duplex.jpeg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Duplex</h3>
@@ -210,7 +210,7 @@
             <li>
               <div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/hospital.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Hospitals / Pharma</h3>
@@ -224,7 +224,7 @@
             <li>
               <div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-2.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/shopping.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Shopping Complex</h3>
@@ -237,7 +237,7 @@
             </li>
             <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/school.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>School / Collages</h3>
@@ -249,7 +249,7 @@
               </div></li>
               <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/office.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Office</h3>
@@ -261,7 +261,7 @@
               </div></li>
               <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/resort.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Hotel / Resorts</h3>
@@ -283,7 +283,7 @@
             <li>
               <div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/warehouse.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Warehouse Construction</h3>
@@ -297,7 +297,7 @@
             <li>
               <div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-2.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/chimney.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Chimney</h3>
@@ -310,19 +310,7 @@
             </li>
             <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-3.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>Data Centers</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div></li>
-            <li><div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/sample-4.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/plant.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Plant Construction</h3>
@@ -334,10 +322,22 @@
               </div></li>
               <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/sample-4.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/home/services/oil.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Oil & Gas Construction</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                </div>
+                <div class="service-btn">
+                  <a href="#">Read More</a>
+                </div>
+              </div></li>
+              <li><div class="service-card">
+                <div class="service-img">
+                  <img src="assets/images/home/services/data-center.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="service-cnt">
+                    <h3>Data Centers</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
