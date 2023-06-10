@@ -1,3 +1,7 @@
+<?php
+echo $_SERVER["DOCUMENT_ROOT"];
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -59,7 +63,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="house-cnt">
-                    <img src="assets/images/commercial/shopping/.jpg" class="img-fluid" alt="">
+                    <img src="assets/images/commercial/shopping/shopping-scrool.jpg" class="img-fluid" alt="">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis beatae repellat amet nemo veritatis at dolorem eveniet. Non amet repudiandae harum velit laboriosam facere quisquam quos, provident nemo veritatis voluptatem.</p>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum, nisi ex vitae asperiores cupiditate similique vel quidem veniam eius repellendus repudiandae tenetur! Deserunt architecto a alias doloremque ut dolore perferendis?</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem laborum laudantium iure ab, eos quas tempora quibusdam pariatur, quod obcaecati optio voluptates explicabo enim esse. Quis optio qui dolorem ipsam libero quod fuga consectetur velit officia quam, sint aperiam excepturi deserunt animi nihil corrupti. Praesentium exercitationem quidem repudiandae unde sint?</p>
@@ -97,7 +101,7 @@
                         <ul>
                             <?php
 
-                            $images = glob("assets/images/commercial/shopping/gallery" . "/*.png");
+                            $images = glob("assets/images/commercial/shopping/gallery" . "/*.jpg");
                             foreach($images as $image)
                             {?>
                             <li>

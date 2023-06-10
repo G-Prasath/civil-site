@@ -59,7 +59,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="house-cnt">
-                    <img src="assets/images/commercial/warehouse/.jpg" class="img-fluid" alt="">
+                    <img src="assets/images/industrial/plant/plant-scrool.jpg" class="img-fluid" alt="">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis beatae repellat amet nemo veritatis at dolorem eveniet. Non amet repudiandae harum velit laboriosam facere quisquam quos, provident nemo veritatis voluptatem.</p>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum, nisi ex vitae asperiores cupiditate similique vel quidem veniam eius repellendus repudiandae tenetur! Deserunt architecto a alias doloremque ut dolore perferendis?</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem laborum laudantium iure ab, eos quas tempora quibusdam pariatur, quod obcaecati optio voluptates explicabo enim esse. Quis optio qui dolorem ipsam libero quod fuga consectetur velit officia quam, sint aperiam excepturi deserunt animi nihil corrupti. Praesentium exercitationem quidem repudiandae unde sint?</p>
@@ -97,7 +97,7 @@
                         <ul>
                             <?php
 
-                            $images = glob("assets/images/Industrial/plant/gallery" . "/*.png");
+                            $images = glob("assets/images/Industrial/plant/gallery" . "/*.jpg");
                             foreach($images as $image)
                             {?>
                             <li>

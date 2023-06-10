@@ -202,10 +202,10 @@
         </div>
       </div>
     </div>
-    <!-- --------------------- Industrial ---------------  -->
+    <!-- ----------------------- Commercial ----------------  -->
     <div class="row">
       <div class="col-md-12">
-        <div class="list-services service-hide" id="Industrial">
+        <div class="list-services service-hide" id="Commercial">
           <ul>
             <li>
               <div class="service-card">
@@ -275,10 +275,10 @@
         </div>
       </div>
     </div>
-    <!-- ----------------------- Commercial ----------------  -->
+    <!-- --------------------- Industrial ---------------  -->
     <div class="row">
       <div class="col-md-12">
-        <div class="list-services service-hide" id="Commercial">
+        <div class="list-services service-hide" id="Industrial">
           <ul>
             <li>
               <div class="service-card">

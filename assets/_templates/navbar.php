@@ -36,7 +36,7 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="about.php">About</a></li>
         <li>
-          <a href="#">Residential</a>
+          <a href="residential.php">Residential</a>
           <i class='bx bxs-chevron-down htmlcss-arrow arrow'></i>
           <ul class="htmlCss-sub-menu sub-menu">
             <li><a href="house.php">House</a></li>
@@ -46,7 +46,7 @@
           </ul>
         </li>
         <li>
-          <a href="#">Commercial</a>
+          <a href="commercial.php">Commercial</a>
           <i class='bx bxs-chevron-down tst-arrow arrow'></i>
           <ul class="tst-sub-menu sub-menu">
             <li><a href="hospitals.php">Hospitals / Pharma</a></li>
@@ -57,7 +57,7 @@
           </ul>
         </li>
         <li>
-          <a href="#">Industrial</a>
+          <a href="industrial.php">Industrial</a>
           <i class='bx bxs-chevron-down js-arrow arrow'></i>
           <ul class="js-sub-menu sub-menu">
             <li><a href="warehouse.php">Warehouse Construction</a></li>

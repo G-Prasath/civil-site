@@ -2238,6 +2238,53 @@ padding: 15px 0px 0px 0px;
       font-size: 15px;
     }
 
+
+    /* ====================================================
+               Residential PAGE
+    =================================================== */
+    #residential-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), white url('../images/residential/cover-img/residential-service.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #residential-banner > p, li{
+      font-size: 15px;
+    }
+
+    /* ====================================================
+               Industrial PAGE
+    =================================================== */
+    #industrial-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), white url('../images/industrial/cover-img/commercial-services.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #industrial-banner > p, li{
+      font-size: 15px;
+    }
+
+        /* ====================================================
+               Commercial PAGE
+    =================================================== */
+    #commercial-banner .banner{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), white url('../images/commercial/cover-img/commercial-services.jpg') no-repeat center; 
+      width: 100%;
+      height: 70vh;
+    }
+    #industrial-banner > p, li{
+      font-size: 15px;
+    }
+
+
     /* ------------ Form ---------------------------  */
     #career-form input:focus,  #career-form textarea:focus, #career-form select:focus{
       box-shadow: inset 0 -1px 0 #ddd;
