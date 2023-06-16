@@ -32,7 +32,7 @@
         <div class="row">
             <div class="col-md-12 p-0">
                 <div class="banner">
-                    <h1>Hotel & Resorts</h1>
+                    <p>Hotel & Resorts</p>
                 </div>
             </div>
         </div>

@@ -36,7 +36,7 @@ echo $_SERVER["DOCUMENT_ROOT"];
         <div class="row">
             <div class="col-md-12 p-0">
                 <div class="banner">
-                    <h1>Shopping Complex</h1>
+                    <p>Shopping Complex</p>
                 </div>
             </div>
         </div>

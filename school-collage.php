@@ -32,7 +32,7 @@
         <div class="row">
             <div class="col-md-12 p-0">
                 <div class="banner">
-                    <h1>School Collage</h1>
+                    <p>School Collage</p>
                 </div>
             </div>
         </div>
