@@ -40,7 +40,6 @@
                         <h1>Dream House</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo dolores pariatur nam esse voluptatem voluptatum non similique corporis?</p>
                         <button class="cover-btn"><a href="#">Read More</a></button>
-                        <!-- <a href="https://youtu.be/C1B1Fx3XKOg" data-lightbox="mygallery"><i class='bx bx-play'></i></a> -->
                     </div>
                 </div>
             </div>
