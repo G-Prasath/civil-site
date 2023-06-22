@@ -1904,7 +1904,7 @@ padding: 15px 0px 0px 0px;
       position: relative;
       padding-top: 10px;
     }
-    .house-cnt > h2{
+    .house-cnt > h2, .additional{
       font-size: 22px;
     }
     .house-cnt > img{
