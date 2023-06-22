@@ -422,6 +422,7 @@ nav{
       box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
       transition: all 0.5s ease;
       z-index: 1000;
+      overflow-y: scroll;
     }
     .navbar .nav-links .sidebar-logo{
       display: flex;
@@ -443,6 +444,7 @@ nav{
     nav .navbar .links{
       display: block;
       margin-top: 20px;
+      height: 100vh;
     }
     nav .navbar .links li .arrow{
       line-height: 40px;
@@ -526,6 +528,7 @@ nav{
       box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
       transition: all 0.5s ease;
       z-index: 1000;
+      overflow-y: scroll;
     }
     .navbar .nav-links .sidebar-logo{
       display: flex;
@@ -547,6 +550,7 @@ nav{
     nav .navbar .links{
       display: block;
       margin-top: 20px;
+      height: 100vh;
     }
     nav .navbar .links li .arrow{
       line-height: 40px;
