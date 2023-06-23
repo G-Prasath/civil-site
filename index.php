@@ -92,12 +92,9 @@
         <div class="col-md-12">
           <div class="sec-heading">
             <div class="sec-main">
-            <!-- <i class="bx bx-building-house"></i> -->
             <img src="assets/images/home/sec-icons/crane.gif" alt="">
-            <h2>About</h2>
-            <!-- <i class="bx bx-building-house"></i> -->
+            <h1>Mekark Turns Visions to Reality, Building Dream Homes with Vitality</h1>
             </div>
-            <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, cupiditate.</small>
           </div>
         </div>
       </div>
@@ -105,12 +102,40 @@
         <div class="col-md-12">
           <div class="about-img">
             <img src="assets/images/home/about.jpeg" class="img-fluid" alt="">
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti, unde ratione! Dolorem nihil architecto, odit laudantium, dolorum labore atque magni, dignissimos cumque quas deleniti id neque facere velit cupiditate animi rerum beatae mollitia numquam quidem est possimus vero. Rem, dolores. Officiis illum in cupiditate similique error laboriosam dignissimos earum ab.</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis repudiandae officia itaque veniam!</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque tenetur assumenda eligendi. Laborum iste saepe fugit, odio debitis ipsa, officiis, corrupti exercitationem illo culpa doloribus beatae aspernatur porro. Facilis et placeat inventore similique, repudiandae ipsam consequuntur totam eius nihil voluptatum sed iure at eveniet exercitationem. Obcaecati perferendis porro temporibus reprehenderit, ut rem possimus perspiciatis eligendi quidem maiores, modi sapiente facere, odit debitis qui sunt. Rerum, nam fuga eaque illum obcaecati quae molestias. Natus aspernatur sint similique quibusdam molestias autem iure, minus inventore? Unde, dignissimos porro vero harum dolor earum nisi blanditiis magnam aliquid reprehenderit esse iure repudiandae officia itaque veniam!</p>
+            <p>Are you looking for reliable and trustworthy <b>builders in Chennai</b> to bring your dream home to life? Mekark Constructions is a leading construction company with a solid reputation for delivering exceptional projects at affordable prices. As the <b>best Residential Contractors in Chennai</b>, we provide top-notch construction services while prioritising quality, customer satisfaction, and attention to detail.</p>
+            <h2 class="additional">Luxury Flats that exceed expectations</h2>
+            <p>When building your dream home, you deserve nothing but the best. At Mekark, we are renowned as the <b>best individual house builders in Chennai</b> for our ability to create architectural marvels that stand the test of time. From concept to completion, we pay meticulous attention to every detail, ensuring that your home truly reflects your style and aspirations.</p>
+            <h2 class="additional">Redefining the Standards of Construction</h2>
+            <p>As the <b>top builders in Chennai</b>, we continuously push the boundaries of construction excellence. Our team of skilled professionals combines their expertise with the latest construction techniques to deliver projects that redefine the standards of excellence in Chennai.</p>
+            <h2 class="additional">The Best Builders in Chennai for Customized Homes Tailored to Your Needs</h2>
+            <p>At Mekark Constructions, we understand that your home reflects your personality and individuality. As the <b>top residential builders in Chennai for individual houses</b>, we take pride in our ability to create customized homes that perfectly match your preferences and lifestyle. Our attention to detail and commitment to craftsmanship guarantee a personalized homebuilding experience that surpasses your expectations.</p>
+            <h2 class="additional">Your Reliable Partner for Residential Construction in Chennai</h2>
+            <p>Whether you are in need of <b>building contractors in Chennai or residential construction companies in Chennai</b>, Mekark Constructions is your reliable partner throughout the construction journey. Our team of experts possesses extensive knowledge and expertise in handling diverse projects, ranging from individual houses to large-scale residential complexes. From obtaining necessary permits and managing the construction timeline to ensuring efficient project coordination, we handle every aspect of the construction process professionally and efficiently.</p>
+            <h2 class="additional">Creating Architectural Marvels with Impeccable Quality</h2>
+            <p>At Mekark <b>Industrial Constructions</b>, we believe that the true essence of luxury lies in the intricate details and flawless craftsmanship. As one of the <b>top 10 builders in Chennai</b>, we bring together a perfect blend of architectural brilliance, functional design, and opulent finishes to create buildings that leave a lasting impression. Each project we undertake is a testament to our commitment to delivering impeccable quality that surpasses industry standards.</p>
+            <h2 class="additional">Why Choose Mekark Constructions for Building Your Dream Home?</h2>
+            <p>At <b>Mekark Builders</b>, we understand that building your dream home is a significant milestone in your life. Everytime we provide construction services, it's not only about the bricks and mortar; we consider it mainly about creating a space where you will build cherished memories and find comfort and joy in living. Here are the reasons, why you should choose us as your trusted partner in <b>building your dream home</b>.</p>
+            
           </div>
         </div>
       </div>
+      <div class="row">
+            <div class="col-md-12">
+                <div class="page-cnt">
+                    <ul>
+                        <li><span><span></span></span>With years of experience, our team brings unmatched expertise to every project, ensuring innovative and precise construction.</li>
+                        <li><span><span></span></span>We understand your unique preferences and work closely with you to tailor our services, creating a home that reflects your personality and aspirations.</li>
+                        <li><span><span></span></span>Always, we believe in open communication and transparency throughout the entire construction process, which helps us to cater to your needs even more clearly, keeping you informed and involved every step of the way.</li>
+                        <li><span><span></span></span>Our focus on timely completion ensures that your dream home is ready for you to move in as per the agreed-upon schedule.</li>
+                        <li><span><span></span></span>At <b>Mekark Home Builders</b>, we follow a comprehensive service, which includes everything from architectural design to interior design, that streamlines the construction process and makes it hassle-free for you.</li>
+                        <li><span><span></span></span>Our ultimate goal is your complete satisfaction, and we measure our success by  the smiles on our client's faces and the lasting relationships we build.</li>
+                    </ul>
+                </div>
+                <p style="line-height: 28px">Choose Mekark <b>Residential Constructions</b> as your partner in building your dream home, and experience the joy and fulfillment of owning a space that truly reflects your lifestyle and aspirations. Let us turn your vision into a reality with our expertise, commitment to quality, and personalized approach to construction.</p>
+                <h2 class="additional">Let's build Your dream home together!</h2>
+                <p style="line-height: 28px">If you are ready to turn your dream home into a reality, contact Mekark Constructions today. As the <b>best builders in Chennai</b>, we are committed to delivering exceptional results that surpass your expectations. Our team of building experts will guide you through every single step of the construction process, from conceptualization and design to execution and completion of your dream home, ensuring that your vision is brought to life. Mekark Constructions stands tall among the <b>individual house builders in Chennai</b> for our continuous commitment to quality, customer satisfaction, and attention to detail. Contact us today, and let's start this exciting journey together!</p>
+            </div>
+        </div>
     </div>
   </div>
 <!-- ------------- End Home About -------------->
