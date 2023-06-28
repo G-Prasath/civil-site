@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Hospital builders in Chennai - Mekark Construction</title>
+    <meta name="description" content="Mekark is one of the Top Hospital Builders in Chennai, delivering Hospital, Pharmacy, Medical and Healthcare construction facilities." />
+    <meta name="keywords" content=" Hospital builders in Chennai, Hospital building Contractors, Hospital pharmacy in Chennai, Building Contractors For Hospital in Chennai, Building Contractors For Pharmacy in Chennai, Hospital Construction Company, Healthcare Building Contractor, Hospital and Laboratory Building Contractors, Hospital Design Architects in Chennai, Construction of Hospital Building, Builder Hospital in Chennai, Medical Hospital & Healthcare Construction Company"/>
+    <link rel="canonical" href="https://www.mekarkbuilders.com/hospital-builders-chennai/" />
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

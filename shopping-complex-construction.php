@@ -1,14 +1,15 @@
-<?php
-echo $_SERVER["DOCUMENT_ROOT"];
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> Shopping Complex Construction | Mekark Builders</title>
+    <meta name="description" content=" Mekark is one of the top leading shopping mall construction companies in Chennai, specialize in the design and construction of Retail, Shopping mall and Shopping Complexes. " />
+    <meta name="keywords" content=" Shopping Complex Construction, Building Contractors For Mall in Chennai, Retail and Shopping Mall Construction Company in Chennai, Shopping complex building construction, Shopping Complex Building Elevation" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/shopping-complex-construction/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

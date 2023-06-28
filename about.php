@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Mekark Construction Builders About us</title>
+    <meta name="description" content=" Welcome to the Mekark Construction Team. We have an experienced team of dedicated professionals who are committed to providing trustworthy, quality, and on-time service throughout the entire process." />
+    <meta name="keywords" content=" Mekark, Construction, Builders, About us" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/about-us/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

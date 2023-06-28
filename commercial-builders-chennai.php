@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Commercial Builders in Chennai  - Mekark  Construction</title>
+    <meta name="description" content=" Mekark is one of the leading Commercial builders in Chennai, offering Healthcare, Hospital, Pharmacy, School, Colleges, Institute,  Hotels, Resort and Office in Chennai with best construction." />
+    <meta name="keywords" content=" Commercial Builders in Chennai, Commercial Building Contractors in Chennai, Commercial House Construction, Commercial Building Construction, Mekark" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/commercial-builders-chennai/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

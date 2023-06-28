@@ -36,24 +36,24 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="about.php">About</a></li>
         <li>
-          <a href="residential.php">Residential</a>
+          <a href="residential-builders-chennai.php">Residential</a>
           <i class='bx bxs-chevron-down htmlcss-arrow arrow'></i>
           <ul class="htmlCss-sub-menu sub-menu">
-            <li><a href="house.php">House</a></li>
-            <li><a href="flats.php">Flats</a></li>
-            <li><a href="condominium.php">Condominium</a></li>
-            <li><a href="duplex.php">Duplex</a></li>
+            <li><a href="house-construction-chennai.php">House</a></li>
+            <li><a href="flat-builders-chennai.php">Flats</a></li>
+            <li><a href="condominium-developers-chennai.php">Condominium</a></li>
+            <li><a href="duplex-house-builders-chennai.php">Duplex</a></li>
           </ul>
         </li>
         <li>
-          <a href="commercial.php">Commercial</a>
+          <a href="commercial-builders-chennai.php">Commercial</a>
           <i class='bx bxs-chevron-down tst-arrow arrow'></i>
           <ul class="tst-sub-menu sub-menu">
-            <li><a href="hospitals.php">Hospitals / Pharma</a></li>
-            <li><a href="shopping.php">Shopping complexes</a></li>
-            <li><a href="school-collage.php">School / Collages</a></li>
-            <li><a href="office.php">Office</a></li>
-            <li><a href="hotel.php">Hotel / Resorts</a></li>
+            <li><a href="hospital-builders-chennai.php">Hospitals / Pharma</a></li>
+            <li><a href="shopping-complex-construction.php">Shopping complexes</a></li>
+            <li><a href="instuitional-building-contractors.php">School / Collages</a></li>
+            <li><a href="office-building-contractors.php">Office</a></li>
+            <li><a href="hotel-resort-construction.php">Hotel / Resorts</a></li>
           </ul>
         </li>
         <li>
@@ -68,7 +68,7 @@
           </ul>
         </li>
         
-        <li><a href="contact.php">Contact Us</a></li>
+        <li><a href="contact-us.php">Contact Us</a></li>
       </ul>
     </div>
   </div>

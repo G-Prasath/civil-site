@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> Condo Developers in Chennai | Mekark Construction </title>
+    <meta name="description" content=" Mekark is one of the leading Condo Developers in Chennai, with luxury flats, apartments and individual home projects." />
+    <meta name="keywords" content=" Condo Developers in Chennai, Condominium flats, Condominium complex, Condo builders, Condo builders near me, Condominium flat developers, Top 10 Pre-Construction Condo Developers in Chennai, Best Condo Developers in Chennai" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/condominium-developers-chennai/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

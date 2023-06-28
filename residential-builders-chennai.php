@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Residential Builders in Chennai - Mekark Construction</title>
+    <meta name="description" content=" Mekark is one of the leading residential builders in Chennai. We offer individual houses, Flats, condominiums, and duplexes in Chennai with the best construction." />
+    <meta name="keywords" content="Residential Builders in Chennai, Residential Building Contractors in Chennai, Residential House Construction, Residential Building Construction" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/residential-builders-chennai/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

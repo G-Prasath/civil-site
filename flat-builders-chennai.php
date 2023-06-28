@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> Flat builders in Chennai  | Mekark Constructions</title>
+    <meta name="description" content=" Mekark is one of India's leading best flat builders in Chennai, involved 1 BHK, 2BHK and 3BHK Flat construction at a competitive price in chennai. " />
+    <meta name="keywords" content=" Flat builders in Chennai, Flat Developers in Chennai, Apartment builders in Chennai, Luxury Flats builders in Chennai, Top 10 flat developers in Chennai, Chennai housing developers, Chennai flat construction services, Builders and developers in Chennai, Affordable housing builders in Chennai, Flat construction companies in Chennai, Chennai flat construction firms, 1 BHK, 2BHK and 3BHK Flats Chennai" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/flat-builders-chennai/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> Institutional Building Contractors  | Mekark Construction</title>
+    <meta name="description" content=" Mekark provide quality of Institutional Building Contractor Services. We can handle wide range of schools and colleges designing and building projects. " />
+    <meta name="keywords" content=" Building Contractors For Institute in Chennai, Builders Engineering College, Top Institution Builders near me in Chennai, School Building Construction in Chennai, School Building Contractor Chennai, Building Contractors For School in Chennai, Building Contractors For Colleges in Chennai, College Construction Building in Chennai, Institutional Building Contractors in Chennai, Institutional Building Contractors" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/instuitional-building-contractors/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

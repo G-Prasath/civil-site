@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Mekark Builders  Contact us</title>
+    <meta name="description" content=" Mekark Builders, 15,62nd street, Ashok Nagar, Chennai - 600083 Email:admin@mekark.com Call us: 9790924754." />
+    <meta name="keywords" content=" Mekark, Builders, Contact us" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/contact-us/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

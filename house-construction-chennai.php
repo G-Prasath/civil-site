@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> House Construction in Chennai - Mekark Builders  </title>
+    <meta name="description" content=" Mekark  are individual House Construction in Chennai, provide wide range of construction services and architecture designs." />
+    <meta name="keywords" content=" Home Builders in Chennai, House construction in Chennai, Home construction in Chennai, Chennai House Construction, Building Contractors in Chennai, Build Your Dream Home, Top 10 Architects in Chennai, Dream home construction, House building companies, Best home builders, Individual House Builders" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/house-construction-chennai/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

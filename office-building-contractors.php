@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> Office Building Contractor  | Mekark Construction</title>
+    <meta name="description" content=" As the top highly experienced office construction company, IT parks, Data center, multi-storey office building offered by Mekark. " />
+    <meta name="keywords" content=" Office Building Contractors, Office Building Construction, Multi-storey office buildings construction, Commercial Office Building Construction, Office building construction companies, Construction Office, Office construction companies in Chennai" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/office-building-contractors/" />
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->
