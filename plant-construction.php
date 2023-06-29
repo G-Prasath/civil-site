@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Plant Construction | Mekark Builders </title>
+    <meta name="description" content=" Mekark manage Power Plant Construction services like Erection, Fabrication, Repair and maintenance. " />
+    <meta name="keywords" content=" Plant Construction in Chennai, Civil Power Plant Construction in Chennai, Plant Construction Company, Plant Construction Company Chennai" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/plant-construction/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

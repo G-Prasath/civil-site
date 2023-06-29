@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> Chimney Builders | Mekark Construction </title>
+    <meta name="description" content=" Mekark provides quality, affordable chimney contracting, Chimney demolition, restoration, re-building, chimney construction services in Chennai." />
+    <meta name="keywords" content=" Chimney Builders, Chimney Construction Company, Top Chimney Construction Contractors in Chennai, Industrial and domestic chimney contractors, Industrial Chimney Construction Service, Chimney Manufacturers" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/chimney-builders/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

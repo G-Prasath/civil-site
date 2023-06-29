@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Oil and Gas Pipeline Construction | Mekark Builders</title>
+    <meta name="description" content=" Mekark Oil and Gas Pipeline Construction company helps gas processing plants, major oil and gas field improvements and Oil and Gas Pipeline Construction services." />
+    <meta name="keywords" content=" Oil and Gas construction companies, Oil & Gas construction, Oil Pipeline Contractors, Oil and Gas Contractors, Oil and Gas Pipeline Construction Company" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/oil-gas-pipeline-construction/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->
@@ -86,7 +91,7 @@
                 <div class="page-cnt">
                     <ul>
                         <li><span><span></span></span>Industry Experience: Mekark Constructions is one of the leading oil& gas construction companies in Chennai. With our extensive experience in the industry, we have successfully completed numerous projects as one of the best oil& gas companies in Chennai. Our expertise covers various aspects, including oil and gas construction, pipeline construction, and serving as oil pipeline contractors.</li>
-                        <li><span><span></span></span>Customized Solutions:In today’s modern world,all oil &gas construction companies are unique. Whether it's oil pipeline construction or comprehensive oil and gas construction services, we work closely with our clients to ensure their needs are fully understood and addressed.Quality is at the core of our oil and gas construction services.</li>
+                        <li><span><span></span></span>Customized Solutions:In today's modern world,all oil &gas construction companies are unique. Whether it's oil pipeline construction or comprehensive oil and gas construction services, we work closely with our clients to ensure their needs are fully understood and addressed.Quality is at the core of our oil and gas construction services.</li>
                         <li><span><span></span></span>Technical Expertise: At Mekark Constructions, we have a team of highly skilled professionals who possess extensive knowledge and expertise in oil and gas construction. Our oil and gas contractors and pipeline contractors are well-versed in the latest industry trends and technologies. With their technical prowess, they ensure that all construction activities are executed with precision and adherence to industry standards.</li>
                         <li><span><span></span></span>•	Reliable Project Management: As one of the oil&gas construction companies, we excel in project management. Our experienced project managers oversee all aspects of the construction process, from planning and scheduling to resource allocation and risk management.</li>
                     </ul>

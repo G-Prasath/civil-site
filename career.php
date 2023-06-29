@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Mekark Construction Builders Career</title>
+    <meta name="description" content="Get in touch with us NOW!. Join our Team. " />
+    <meta name="keywords" content=" Mekark, Construction, Builders, Career, Join our team " />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/career/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

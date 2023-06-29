@@ -57,14 +57,14 @@
           </ul>
         </li>
         <li>
-          <a href="industrial.php">Industrial</a>
+          <a href="industrial-builders-chennai.php">Industrial</a>
           <i class='bx bxs-chevron-down js-arrow arrow'></i>
           <ul class="js-sub-menu sub-menu">
-            <li><a href="warehouse.php">Warehouse Construction</a></li>
-            <li><a href="chimney.php">Chimney</a></li>
-            <li><a href="data-center.php">Data Centers</a></li>
-            <li><a href="plants.php">Plant Construction</a></li>
-            <li><a href="oil.php">Oil & Gas Construction</a></li>
+            <li><a href="warehouse-contractors-chennai.php">Warehouse Construction</a></li>
+            <li><a href="chimney-builders.php">Chimney</a></li>
+            <li><a href="data-center-contractors-chennai.php">Data Centers</a></li>
+            <li><a href="plant-construction.php">Plant Construction</a></li>
+            <li><a href="oil-gas-pipeline-construction.php">Oil & Gas Construction</a></li>
           </ul>
         </li>
         

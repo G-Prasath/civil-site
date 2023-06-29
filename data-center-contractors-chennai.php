@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> Data Center Contractors in Chennai | Mekark  Construction</title>
+    <meta name="description" content=" Mekark Data Centre Solutions provides office servers and manages the equipment and networking for your business and industries." />
+    <meta name="keywords" content=" Data Center Contractors in  Chennai, Top Leading Data Center Construction Companies, Data Center Construction Company, Top Architects For Data Center in Chennai, Data Center builders in Chennai" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/data-center-contractors-chennai/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

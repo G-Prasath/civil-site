@@ -170,206 +170,206 @@
       </div>
     </div>
     <!-- ----------------- Residential ------------------  -->
-    <div class="row">
-      <div class="col-md-12">
-        <div class="list-services service-show" id="Residential">
-          <ul>
-            <li>
-              <div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/house.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>House</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/flats.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>Flats</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div>
-            </li>
-            <li><div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/condominium.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>Condominium</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div></li>
-            <li><div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/duplex.jpeg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>Duplex</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div></li>
-          </ul>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="list-services service-show" id="Residential">
+              <ul>
+                <li>
+                  <div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/residential/hole-service/house.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>House</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="house-construction-chennai.php">Read More</a>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/residential/hole-service/flat.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>Flats</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="flat-builders-chennai.php">Read More</a>
+                    </div>
+                  </div>
+                </li>
+                <li><div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/residential/hole-service/condiminum.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>Condominium</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="condominium-developers-chennai.php">Read More</a>
+                    </div>
+                  </div></li>
+                <li><div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/residential/hole-service/duplex.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>Duplex</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="duplex-house-builders-chennai.php">Read More</a>
+                    </div>
+                  </div></li>
+              </ul>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
     <!-- ----------------------- Commercial ----------------  -->
-    <div class="row">
-      <div class="col-md-12">
-        <div class="list-services service-hide" id="Commercial">
-          <ul>
-            <li>
-              <div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/hospital.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>Hospitals / Pharma</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/shopping.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>Shopping Complex</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div>
-            </li>
-            <li><div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/school.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>School / Collages</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div></li>
-              <li><div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/office.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>Office</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div></li>
-              <li><div class="service-card">
-                <div class="service-img">
-                  <img src="assets/images/home/services/resort.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="service-cnt">
-                    <h3>Hotel / Resorts</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
-                </div>
-                <div class="service-btn">
-                  <a href="#">Read More</a>
-                </div>
-              </div></li>
-          </ul>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="list-services" id="Industrial">
+              <ul>
+                <li>
+                  <div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/commercial/hole-service/hospital.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>Hospitals / Pharma</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="hospital-builders-chennai.php">Read More</a>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/commercial/hole-service/shopping-mall.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>Shopping Complex</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="shopping-complex-construction.php">Read More</a>
+                    </div>
+                  </div>
+                </li>
+                <li><div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/commercial/hole-service/school.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>School / Collages</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="instuitional-building-contractors.php">Read More</a>
+                    </div>
+                  </div></li>
+                  <li><div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/commercial/hole-service/office.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>Office</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="office-building-contractors.php">Read More</a>
+                    </div>
+                  </div></li>
+                  <li><div class="service-card">
+                    <div class="service-img">
+                      <img src="assets/images/commercial/hole-service/resort.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="service-cnt">
+                        <h3>Hotel / Resorts</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
+                    </div>
+                    <div class="service-btn">
+                      <a href="hotel-resort-construction.php">Read More</a>
+                    </div>
+                  </div></li>
+              </ul>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
     <!-- --------------------- Industrial ---------------  -->
     <div class="row">
       <div class="col-md-12">
-        <div class="list-services service-hide" id="Industrial">
+        <div class="list-services" id="Industrial">
           <ul>
             <li>
               <div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/warehouse.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/industrial/hole-service/warehouse.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Warehouse Construction</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="warehouse-contractors-chennai.php">Read More</a>
                 </div>
               </div>
             </li>
             <li>
               <div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/chimney.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/industrial/hole-service/chimney.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Chimney</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="chimney-builders.php">Read More</a>
                 </div>
               </div>
             </li>
             <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/plant.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/industrial/hole-service/plant.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Plant Construction</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="plant-construction.php">Read More</a>
                 </div>
               </div></li>
               <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/oil.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/industrial/hole-service/oil-gas.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Oil & Gas Construction</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="oil-gas-pipeline-construction.php">Read More</a>
                 </div>
               </div></li>
               <li><div class="service-card">
                 <div class="service-img">
-                  <img src="assets/images/home/services/data-center.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/industrial/hole-service/data-center.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="service-cnt">
                     <h3>Data Centers</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="data-center-contractors-chennai.php">Read More</a>
                 </div>
               </div></li>
           </ul>

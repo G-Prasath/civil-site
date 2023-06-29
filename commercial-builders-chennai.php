@@ -87,7 +87,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="hospital-builders-chennai.php">Read More</a>
                     </div>
                   </div>
                 </li>
@@ -101,7 +101,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="shopping-complex-construction.php">Read More</a>
                     </div>
                   </div>
                 </li>
@@ -114,7 +114,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="instuitional-building-contractors.php">Read More</a>
                     </div>
                   </div></li>
                   <li><div class="service-card">
@@ -126,7 +126,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="office-building-contractors.php">Read More</a>
                     </div>
                   </div></li>
                   <li><div class="service-card">
@@ -138,7 +138,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="hotel-resort-construction.php">Read More</a>
                     </div>
                   </div></li>
               </ul>

@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title>Industrial Builders in Chennai - Mekark Construction</title>
+    <meta name="description" content="Mekark is one of the leading Industrial builders in Chennai. We offer Warehouse, Factory, Chimney, Oil and Plant construction. " />
+    <meta name="keywords" content="Industrial Builders in Chennai, Industrial Building Contractors in Chennai, Industrial House Construction, Industrial Building Construction" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/industrial-builders-chennai" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->
@@ -82,7 +87,7 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="warehouse-contractors-chennai.php">Read More</a>
                 </div>
               </div>
             </li>
@@ -96,7 +101,7 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="chimney-builders.php">Read More</a>
                 </div>
               </div>
             </li>
@@ -109,7 +114,7 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="plant-construction.php">Read More</a>
                 </div>
               </div></li>
               <li><div class="service-card">
@@ -121,7 +126,7 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="oil-gas-pipeline-construction.php">Read More</a>
                 </div>
               </div></li>
               <li><div class="service-card">
@@ -133,7 +138,7 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                 </div>
                 <div class="service-btn">
-                  <a href="#">Read More</a>
+                  <a href="data-center-contractors-chennai.php">Read More</a>
                 </div>
               </div></li>
           </ul>

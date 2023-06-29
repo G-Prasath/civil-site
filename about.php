@@ -63,14 +63,17 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
-                <div class="about-page-cnt">
-                    <h2>Company Overview</h2>
-                    <p>We create buildings that meet your needs</p>
-                    <ul>
-                        <li><span><span></span></span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque cupiditate fugiat temporibus quisquam quidem! Quis possimus excepturi veniam ad quod!</li>
-                        <li><span><span></span></span>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam dolorum quidem praesentium, incidunt ipsum exercitationem.</li>
-                        <li><span><span></span></span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores quis esse soluta nihil saepe modi quam aliquam quibusdam magni, eos aspernatur voluptatibus.</li>
-                    </ul>
+                <div class="main-heading">
+                    <h1>Building Cutting-Edge Data Centers with Mekark Constructions</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="house-cnt">
+                    <p>We are Mekark Constructions, a <b>top home building company in Chennai</b>. Founded in 2008, we have already completed 450+ projects and 5+ ongoing projects. We are known for creating world-class homes for our clients at an affordable price. We've been building homes for more than 15 years, so we've got plenty of experience under our belt! That experience has taught us a thing or two about what makes a home comfortable and liveable and how you can make sure that your new home is just as good as you envisioned it would be. That experience has taught us a thing or two about what makes a home comfortable and liveable and how you can make sure that your new home is just as good as you envisioned it would be.</p>
+                    <p>We offer a wide range of services, including residential, commercial, and industrial projects. Our team is made up of professionals who have several years of experience in the construction industry. We are a team of skilled professionals who have worked together for years. Our team members come from different backgrounds and specialties, but they all share the same goal: to provide you with the best home you can dream of.</p>
+                    <p>You'll find us throughout Chennai, even as the best condo developers in Chennai, doing everything from residential building contractors to commercial building contractors—and everything in between. Our goal is simple: to provide quality construction services at affordable prices. If this sounds like something you're interested in learning more about, reach out today!</p>
                 </div>
             </div>
         </div>
@@ -86,19 +89,19 @@
                             <li>
                                 <div class="vmq-cnt">
                                     <h6>VISION</h6>
-                                    <p>Our vision is to become the most respected solution providers in the Manufacturing Industry and build a modern society. We also have a services sector that strives to achieve the same level of excellence and cost- elective turnkey solution for our customers.</p>
+                                    <p>Our vision is to be the preferred choice for individuals and businesses seeking reliable and innovative construction services in Chennai. We aspire to be known as the leading flat builders in Chennai who shape the landscape of the city through our iconic structures. By staying at the forefront of industry advancements and sustainability practices, we aim to create sustainable, functional, and aesthetically appealing spaces that enrich lives and communities.</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="vmq-cnt">
                                     <h6>MISION</h6>
-                                    <p>MEKARK aims to be a manufacturer and supplier of prefabricated and prefabricated buildings, committed to providing quality, fast and cost-effective solutions to business. Our aim is to provide innovative and sustainable solutions that meet the changing needs of our customers, providing on-time delivery and Highest quality customer service.</p>
+                                    <p>The mission of our company is to ensure that our customers get value for money through quality workmanship and timely delivery. Also, our mission includes being the best individual house builders in Chennai by providing our customers with an array of options at affordable prices so that they can live their dream life.</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="vmq-cnt">
                                     <h6>QUALITY</h6>
-                                    <p>To provide products and services that meets or exceeds customer expectations through continuous improvement and adherence to quality management systems.</p>
+                                    <p>Our values include delivering top quality products at affordable prices without compromising on quality or time-frame, working with integrity and honesty through hard work, looking after our staff members as if they were family members and delivering on every project within budgeted time frame.</p>
                                 </div>
                             </li>
                         </ul>

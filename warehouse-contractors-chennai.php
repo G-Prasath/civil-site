@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Civil Construction</title>
+    <title> Warehouse Contractors in Chennai | Mekark Construction</title>
+    <meta name="description" content=" Warehouse Shed Builders, Warehouse Steel Building Construction, Warehouse Construction, factory construction and warehouse development services offered by Mekark." />
+    <meta name="keywords" content=" Warehouse Construction, Warehouse Contractor, Warehouse Construction Contractors in Chennai, Warehouse Construction Company, Warehouse Building, Warehouse Manufacturer Company, Contractors Warehouse near me, Warehouse Construction Company, Warehouse Shed Construction, Warehouse building Construction, Top Warehouse Contractors in Chennai" />
+    <link rel="canonical" href="https://www.mekarkbuilders.com/warehouse-contractors-chennai/" />
+
+
     <link rel="stylesheet" href="assets/css/style.css" />
 
     <!-- --------- Bottstrap css and Js ---------------  -->

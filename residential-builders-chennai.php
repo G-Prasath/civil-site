@@ -87,7 +87,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="house-construction-chennai.php">Read More</a>
                     </div>
                   </div>
                 </li>
@@ -101,7 +101,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="flat-builders-chennai.php">Read More</a>
                     </div>
                   </div>
                 </li>
@@ -114,7 +114,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="condominium-developers-chennai.php">Read More</a>
                     </div>
                   </div></li>
                 <li><div class="service-card">
@@ -126,7 +126,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, vero?</p>
                     </div>
                     <div class="service-btn">
-                      <a href="#">Read More</a>
+                      <a href="duplex-house-builders-chennai.php">Read More</a>
                     </div>
                   </div></li>
               </ul>
